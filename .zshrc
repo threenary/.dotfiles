@@ -81,7 +81,18 @@ ZSH_DISABLE_COMPFIX=true
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(brew git aws docker node npm docker-compose terraform)
+plugins=(
+    brew
+    git
+    gitfast
+    aws
+    node
+    docker
+    node
+    npm
+    docker-compose
+    terraform
+)
 
 source $ZSH/oh-my-zsh.sh
 
