@@ -82,14 +82,11 @@ ZSH_DISABLE_COMPFIX=true
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-    brew
     git
     gitfast
     aws
     node
     docker
-    node
-    npm
     docker-compose
     terraform
 )
@@ -121,6 +118,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias dotfiles='/usr/bin/git --git-dir=/Users/ggomezsullain/.dotfiles/ --work-tree=/Users/ggomezsullain'
+alias vscode-backup='code --list-extensions >> vs_code_extensions.txt'
+alias vscode-restore='cat vs_code_extensions.txt | xargs -n 1 code --install-extension'
 
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /usr/local/bin/terraform terraform
@@ -131,6 +131,4 @@ source /usr/local/etc/bash_completion.d/az
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-alias dotfiles='/usr/bin/git --git-dir=/Users/ggomezsullain/.dotfiles/ --work-tree=/Users/ggomezsullain'
-alias vscode-backup='code --list-extensions >> vs_code_extensions.txt'
-alias vscode-restore='cat vs_code_extensions.txt | xargs -n 1 code --install-extension'
+
