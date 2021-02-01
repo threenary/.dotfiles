@@ -14,7 +14,6 @@ path+=('~/projects/infrastructure/bin')
 # export to sub-processes (make it inherited by child processes)
 export PATH
 
-
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -121,6 +120,10 @@ source $ZSH/oh-my-zsh.sh
 alias dotfiles='/usr/bin/git --git-dir=/Users/ggomezsullain/.dotfiles/ --work-tree=/Users/ggomezsullain'
 alias vscode-backup='code --list-extensions >> vs_code_extensions.txt'
 alias vscode-restore='cat vs_code_extensions.txt | xargs -n 1 code --install-extension'
+alias jenkins="java -jar $JENKINS_CLI -s $JENKINS_URL"
+
+# Custom Exports
+# source ~/.zshenv
 
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /usr/local/bin/terraform terraform
@@ -131,4 +134,3 @@ source /usr/local/etc/bash_completion.d/az
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-

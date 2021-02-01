@@ -14,6 +14,8 @@ bins=(
     "jq"
     "fzf"
     "ripgrep"
+    "terraform"
+    "warrensbox/tap/tfswitch"
 )
 
 casks=(
