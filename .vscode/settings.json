@@ -1,0 +1,20 @@
+{
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 1,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "editor.columnSelection": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "azureFunctions.showProjectWarning": false,
+    "azureResourceManagerTools.parameterFiles": {
+        "/Users/ggomezsullain/projects/logic-apps-arm-templates/pl07-shipment-confirmation/pl07-shipment-confirmation.json": "pl07-shipment-confirmation-parameters.json"
+    },
+    "sync.gist": "3f0e59ed7e9ef7e5f9eb30bc4d66aa69",
+    "diffEditor.renderSideBySide": true
+}

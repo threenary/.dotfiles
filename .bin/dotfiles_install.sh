@@ -1,5 +1,7 @@
 #!/usr/bin/env zsh
 
+# Assuming you already have a dotfiles repo
+# This script will pull it and do the does
 git clone --bare git@bitbucket.org:threenary/dotfiles.git $HOME/.dotfiles
 
 function dotfiles {
@@ -17,5 +19,3 @@ fi;
 
 dotfiles checkout
 dotfiles config status.showUntrackedFiles no
-
-cat .dotfiles/.vscode/.txt | xargs -n 1 code --install-extension

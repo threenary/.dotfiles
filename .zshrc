@@ -113,17 +113,13 @@ source $ZSH/oh-my-zsh.sh
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-alias dotfiles='/usr/bin/git --git-dir=/Users/ggomezsullain/.dotfiles/ --work-tree=/Users/ggomezsullain'
-alias vscode-backup='code --list-extensions >> vs_code_extensions.txt'
-alias vscode-restore='cat vs_code_extensions.txt | xargs -n 1 code --install-extension'
-alias jenkins="java -jar $JENKINS_CLI -s $JENKINS_URL"
+
+for file in ~/.aliases/*; do
+    source "$file"
+done
 
 # Custom Exports
-# source ~/.zshenv
+#source ~/.zshenv
 
 autoload -U +X bashcompinit && bashcompinit
 complete -o nospace -C /usr/local/bin/terraform terraform

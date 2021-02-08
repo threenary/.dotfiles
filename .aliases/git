@@ -1,0 +1,1 @@
+alias gcleanup='~/.bin/git-remove-gone-branches'
