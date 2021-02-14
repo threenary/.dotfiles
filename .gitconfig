@@ -1,6 +1,7 @@
 [user]
 	username= threenary
 	name = Gonzalo Gomez Sullain
+  email = ""
 [core]
 	editor = nano -w	
 	excludesfile = ~/.gitignore_global
