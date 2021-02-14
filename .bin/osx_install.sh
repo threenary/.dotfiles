@@ -12,4 +12,7 @@ brew install mas
 brew update
 brew bundle
 
+# Fzf autocompletion https://github.com/junegunn/fzf#using-homebrew-or-linuxbrew
+$(brew --prefix)/opt/fzf/install
+source ~/.zshrc
 

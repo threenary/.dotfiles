@@ -82,8 +82,8 @@ ZSH_DISABLE_COMPFIX=true
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
     git
-    gitfast
     aws
+    npm
     node
     docker
     docker-compose
@@ -130,3 +130,4 @@ source /usr/local/etc/bash_completion.d/az
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
