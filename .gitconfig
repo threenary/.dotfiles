@@ -1,6 +1,6 @@
 [user]
 	username= threenary
-	name = Gonzalo Gomez Sullain
+	#name = Gonzalo Gomez Sullain
   email = ""
 [core]
 	editor = nano -w	
