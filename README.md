@@ -6,7 +6,7 @@ Yet another attempt to group boilerplate in one place to speed up new developmen
 
 In an attempt to gain control and preserve my configuration and set up, with the intention to also grow it in the road, I jumped into the wave to explore the benefits of the `dotfiles`
 
-> After this experience, with clashes and frustrations in the way, I can only remark how beneficial it is mastering and growing these files.
+> Dealing with these files can be initially a journey full of clashes and frustrations in the way, but I can only remark how beneficial it is mastering and growing the content of this repository resulted.
 
 ## Content
 
