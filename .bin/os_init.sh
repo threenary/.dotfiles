@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Additional pieces
+# Additional pieces that should work independently from the OS
+
 # Oh My Zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
