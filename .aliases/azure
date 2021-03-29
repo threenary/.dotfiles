@@ -1,0 +1,1 @@
+alias azkeyvault_list='~/.bin/azure-keyvault-list.sh'
