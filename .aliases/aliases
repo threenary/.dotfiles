@@ -1,6 +1,6 @@
 alias dotfiles='/usr/bin/git --git-dir=/Users/ggomezsullain/.dotfiles/ --work-tree=/Users/ggomezsullain'
+alias vscode-backup='code --list-extensions >> ~/.vscode/dump_extensions.txt'
+alias vscode-restore='cat ~/.vscode/dump_extensions.txt | xargs -n 1 code --install-extension'
 
 alias jenkins="java -jar $JENKINS_CLI -s $JENKINS_URL"
 
-alias vscode-backup='code --list-extensions >> ~/.vscode/dump_extensions.txt'
-alias vscode-restore='cat ~/.vscode/dump_extensions.txt | xargs -n 1 code --install-extension'

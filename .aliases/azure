@@ -1,1 +1,5 @@
-alias azkeyvault_list='~/.bin/azure-keyvault-list.sh'
+alias az_kvlist='~/.bin/azure-keyvault-list.sh'
+alias az_dev='az account set --subscription On-Running-d365-integrations-DEV'
+alias az_uat='az account set --subscription On-Running-d365-integrations-UAT'
+alias az_prod='az account set --subscription On-Running-d365-integrations'
+

@@ -126,7 +126,9 @@ complete -o nospace -C /usr/local/bin/terraform terraform
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
 source /usr/local/etc/bash_completion.d/az
+source ~/.bin/azure-getsettings.sh
 
 # Adding jenv (NEED TO CONFIRM)
 #'export PATH="$HOME/.jenv/bin:$PATH"' >> ~/.zshrc
