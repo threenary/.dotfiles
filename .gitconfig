@@ -1,7 +1,5 @@
 [user]
-	name = Gonzalo Gómez Sullain
-    email = gonzalo.gomez@on-running.com
-    username= threenary
+	username= threenary
 [core]
 	editor = nano -w	
 	excludesfile = ~/.gitignore_global
