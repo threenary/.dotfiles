@@ -1,5 +1,3 @@
-#!/usr/bin/env zsh
-
 create_repo(){
     git init --bare $HOME/.$1
     alias $2="/usr/bin/git --git-dir=$HOME/.$1/ --work-tree=$HOME"

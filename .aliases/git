@@ -1,1 +1,1 @@
-alias gcleanup='~/.bin/git-remove-gone-branches.sh'
+alias gcleanup='~/.bin/git_remove_gone_branches.sh'

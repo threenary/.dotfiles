@@ -1,7 +1,7 @@
 [user]
 	name = Gonzalo Gómez Sullain
-  email = gonzalo.gomez@on-running.com
-  username= threenary
+    email = gonzalo.gomez@on-running.com
+    username= threenary
 [core]
 	editor = nano -w	
 	excludesfile = ~/.gitignore_global
@@ -13,6 +13,8 @@
 	tool = vscode
 [mergetool "vscode"]
 	cmd = code --wait $MERGED
+[pull]
+	rebase = false	
 [interactive]
 	diffFilter = delta --color-only
 [delta]

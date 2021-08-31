@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Setting up brew
 xcode-select --install
 

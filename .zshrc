@@ -128,12 +128,39 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 source /usr/local/etc/bash_completion.d/az
-source ~/.bin/azure-getsettings.sh
 
-# Adding jenv (NEED TO CONFIRM)
-#'export PATH="$HOME/.jenv/bin:$PATH"' >> ~/.zshrc
-#'eval "$(jenv init -)"' >> ~/.zshrc
+if [ -f ~/.bash_profile ]; then 
+    . ~/.bash_profile;
+fi
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+eval export PATH="/Users/ggomezsullain/.jenv/shims:${PATH}"
+export JENV_SHELL=zsh
+export JENV_LOADED=1
+unset JAVA_HOME
+source '/usr/local/Cellar/jenv/0.5.4/libexec/libexec/../completions/jenv.zsh'
+jenv rehash 2>/dev/null
+jenv refresh-plugins
+jenv() {
+  typeset command
+  command="$1"
+  if [ "$#" -gt 0 ]; then
+    shift
+  fi
+
+  case "$command" in
+  enable-plugin|rehash|shell|shell-options)
+    eval `jenv "sh-$command" "$@"`;;
+  *)
+    command jenv "$command" "$@";;
+  esac
+}
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
+export PATH="$HOME/.jenv/bin:$PATH"
+
+# Created by `pipx` on 2021-08-27 17:03:42
+export PATH="$PATH:/Users/ggomezsullain/.local/bin"

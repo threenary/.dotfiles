@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Additional pieces that should work independently from the OS
 
 # Oh My Zsh
