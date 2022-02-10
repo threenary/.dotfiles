@@ -6,14 +6,14 @@ select sub in "${subscriptions[@]}"; do
 	break
 done
 
-if [ -z "$1" ]; then
+if [ -z "$2" ]; then
 	keyVaultList=($(az keyvault list | jq '.[] | .name' -r | sort -f))
 	select item in "${keyVaultList[@]}"; do
 		keyVaultName=$item
 		break
 	done
 else
-	keyVaultName=$1
+	keyVaultName=$2
 fi
 
-az keyvault secret list --vault-name=$keyVaultName | jq '.[] | .name' -r | xargs -I {} -L 1 az keyvault secret show --vault-name=$keyVaultName --name={} | jq '{name: .name, value: .value}'
+az keyvault secret show --vault-name=$keyVaultName --name=$1 | jq '{name: .name, value: .value}'
