@@ -1,5 +1,5 @@
 alias az_settings='~/.bin/azure_get_settings.sh'
-alias az_kvlist='~/.bin/azure_keyvault_list.sh'
+alias az_kv='~/.bin/azure_keyvault_list.sh'
 alias az_dev='az account set --subscription On-Running-d365-integrations-DEV'
 alias az_uat='az account set --subscription On-Running-d365-integrations-UAT'
 alias az_prod='az account set --subscription On-Running-d365-integrations'
