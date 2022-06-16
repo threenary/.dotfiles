@@ -1,5 +1,7 @@
 [user]
 	username= threenary
+	name = Gonzalo
+	email = gonzalo.gomez@on-running.com
 [core]
 	editor = nano -w	
 	excludesfile = ~/.gitignore_global
@@ -22,4 +24,6 @@
 	commit-decoration-style = bold yellow box ul
 	file-style = bold yellow ul
 	file-decoration-style = none
+[commit]
+	template = /Users/ggomezsullain/.git.commit.template
 [alias]
