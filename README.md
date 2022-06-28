@@ -42,7 +42,6 @@ A lot of this was done thanks to the references and contributions gained through
 :bookmark: [I am not myself: Your Terminal and You: Dotfiles](http://iamnotmyself.com/2020/11/10/your-terminal-and-you-dotfiles/) 
 
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>[
-Enrico Batista da Luz](https://github.com/ricobl/dotfiles) \
-<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>[
-Dries De Peuter](https://github.com/NoUseFreak/dotfiles) 
+Enrico Batista da Luz](https://github.com/ricobl/dotfiles)<br>
+<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>[Dries De Peuter](https://github.com/NoUseFreak/dotfiles)<br>
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg"/>[p10k](https://github.com/romkatv/powerlevel10k)
