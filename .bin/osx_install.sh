@@ -5,7 +5,7 @@ xcode-select --install
 
 # Prearing the bundle
 brew tap homebrew/bundle
-brew tap caskroom/cask
+tap homebrew/cask
 brew install mas
 
 # Release the Brewfile
