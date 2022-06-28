@@ -40,4 +40,4 @@ cask "microsoft-azure-storage-explorer"
 #cask "postman"
 #cask "brave-browser"
 cask "adoptopenjdk"
-
+cask "rectangle"
