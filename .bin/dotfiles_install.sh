@@ -1,6 +1,6 @@
 # Assuming you already have a dotfiles repo
 # This script will pull it and do the does
-git clone --bare git@bitbucket.org:threenary/dotfiles.git $HOME/.dotfiles
+git clone --bare git@github.com:threenary/.dotfiles.git $HOME/.dotfiles
 
 function dotfiles {
    /usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME $@
