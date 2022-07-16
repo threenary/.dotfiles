@@ -4,9 +4,29 @@ Yet another attempt to group boilerplate in one place to speed up new developmen
 
 ## Description
 
-In an attempt to gain control and preserve my configuration and set up, with the intention to also grow it in the road, I jumped into the wave to explore the benefits of the `dotfiles`
+In an attempt to gain control and preserve my configuration and set up. I jumped into the wave to explore the benefits of the `dotfiles`
 
 > Dealing with these files can be initially a journey full of clashes and frustrations in the way, but I can only remark how beneficial it is mastering and growing the content of this repository resulted.
+
+## Migration
+
+Make sure you have your alias configured
+
+```
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+```
+
+Consider ignoring the container folder
+```
+echo ".dotfiles" >> .gitignore
+```
+
+Install config tracking in your $HOME by running:
+
+```
+curl -Lks https://github.com/threenary/.dotfiles/raw/master/.bin/dotfiles_install.sh | /bin/bash
+```
+
 
 ## Content
 
@@ -20,7 +40,7 @@ File        |  Intention
 [`Brewfile`](https://github.com/threenary/.dotfiles/blob/master/.bin/Brewfile) | Bundler to install packages, casks and Macstore apps
 [`os_init.sh`](https://github.com/threenary/.dotfiles/blob/master/.bin/os_init.sh) | Missing bits that should work independently from the OS
 
-Within this folder I encourage to contain different scripts that are handy for your day to day work. They can be contained in dedicated subfolders
+Within this folder I encourage to contain different scripts that are handy for your day to day work. They can be contained in dedicated subfolders.
 
 
 ### `./aliases`
