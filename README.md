@@ -15,7 +15,7 @@ In an attempt to gain control and preserve my configuration and set up, with the
 File        |  Intention
 ------------ | -------------
 [`dottfiles_init.sh`](https://github.com/threenary/.dotfiles/blob/master/.bin/dotfiles_init.sh) | Starting point that will help you create a bare repository from which start tracking your files
-[`dotfiles_install.sh`](https://github.com/threenary/.dotfiles/blob/master/.bin/dotfiles_install.sh) | Install in a new machine your dotfiles setup cloning the bare repository earlier creater
+[`dotfiles_install.sh`](https://github.com/threenary/.dotfiles/blob/master/.bin/dotfiles_install.sh) | Assuming you have already been tracking dotfiles, this will install them in a new machine cloning the bare repository in your $HOME
 [`osx_install.sh`](https://github.com/threenary/.dotfiles/blob/master/.bin/osx_install.sh) | Fresh install for a MacOS
 [`Brewfile`](https://github.com/threenary/.dotfiles/blob/master/.bin/Brewfile) | Bundler to install packages, casks and Macstore apps
 [`os_init.sh`](https://github.com/threenary/.dotfiles/blob/master/.bin/os_init.sh) | Missing bits that should work independently from the OS
