@@ -1,1 +1,2 @@
-alias gcleanup='~/.bin/git_remove_gone_branches.sh'
+alias git_cleanup_local='~/.bin/git_remove_local_branches.sh'
+alias git_cleanup_remote='~/.bin/git_remove_merged_branches.sh'
