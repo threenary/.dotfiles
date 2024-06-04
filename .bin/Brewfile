@@ -44,7 +44,4 @@ cask "postman"
 brew "terraform"
 brew "warrensbox/tap/tfswitch"
 brew "azure-cli"
-brew "asciidoctor"
-brew "pandoc"
-
-
+brew "bruno"
