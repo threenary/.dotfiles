@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :365: for Floccus bookmark sync browser extension -->
+<!--- highestId :366: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1084,6 +1084,9 @@
   </bookmark>
   <bookmark href="https://mein-deutschbuch.de/startseite.html" id="365">
     <title>mein-deutschbuch</title>
+  </bookmark>
+  <bookmark href="https://www.interaxion-tk.de/" id="366">
+    <title>Ein Fehler ist aufgetreten - Startseite - Projekt InteraXion: Willkommensbüro und Wohnraumberatung für Menschen mit Migrations- und Fluchterfahrung in Treptow-Köpenick</title>
   </bookmark>
 </folder>
 <folder id="361">
