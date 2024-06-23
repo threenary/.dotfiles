@@ -342,11 +342,11 @@
       <bookmark href="https://adr.github.io/" id="167">
         <title>Architectural Decision Records | adr.github.io</title>
       </bookmark>
-      <bookmark href="https://codesqueeze.com/the-7-software-ilities-you-need-to-know/" id="168">
-        <title>The 7 Software “-ilities”</title>
-      </bookmark>
       <bookmark href="https://c4model.com/" id="169">
         <title>The C4 model for visualising architecture</title>
+      </bookmark>
+      <bookmark href="https://codesqueeze.com/the-7-software-ilities-you-need-to-know/" id="168">
+        <title>The 7 Software “-ilities”</title>
       </bookmark>
       <bookmark href="https://structurizr.com/" id="170">
         <title>Structurizr</title>
