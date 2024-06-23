@@ -492,9 +492,6 @@
       <bookmark href="https://developer.confluent.io/100-days-of-code/" id="190">
         <title>100 Days Of Code with Apache Kafka®</title>
       </bookmark>
-      <bookmark href="https://archkatas.herokuapp.com/" id="191">
-        <title>Architectural Katas: Practicing Architecture</title>
-      </bookmark>
     </folder>
     <folder id="83">
       <title>JavaScript</title>
