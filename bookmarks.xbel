@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :364: for Floccus bookmark sync browser extension -->
+<!--- highestId :365: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1083,6 +1083,9 @@
     </bookmark>
     <bookmark href="https://es.wikipedia.org/wiki/Romina_Gaetani" id="364">
       <title>Romina Gaetani - Wikipedia, la enciclopedia libre</title>
+    </bookmark>
+    <bookmark href="https://mein-deutschbuch.de/startseite.html" id="365">
+      <title>Deutsch lernen - mein-deutschbuch.de</title>
     </bookmark>
   </folder>
   <bookmark href="https://bfu.goethe.de/b2_mod_2MX6/index.php" id="13">
