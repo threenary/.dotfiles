@@ -513,6 +513,9 @@
       <bookmark href="https://basarat.gitbook.io/typescript/getting-started" id="198">
         <title>TypeScript DeepDive</title>
       </bookmark>
+      <bookmark href="https://typescript-exercises.github.io/" id="213">
+        <title>TypeScript Exercises</title>
+      </bookmark>
     </folder>
     <bookmark href="https://devdocs.io/" id="84">
       <title>Docs API</title>
@@ -584,9 +587,6 @@
       </bookmark>
       <bookmark href="https://www.latinando.de/de/" id="212">
         <title>Mate Tee und Spezialitäten aus Lateinamerika | Latinando ® südamerikanische Spezialitäten und Mate Tee</title>
-      </bookmark>
-      <bookmark href="https://typescript-exercises.github.io/" id="213">
-        <title>TypeScript Exercises</title>
       </bookmark>
       <bookmark href="https://www.testdaf.de/de/teilnehmende/der-papierbasierte-testdaf/vorbereitung-auf-den-papierbasierten-testdaf/" id="214">
         <title>TestDaF</title>
