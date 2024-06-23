@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :366: for Floccus bookmark sync browser extension -->
+<!--- highestId :367: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1072,12 +1072,15 @@
     <bookmark href="https://skili.berlin/curso-en-espanol" id="103">
       <title>Motorbootführerschein</title>
     </bookmark>
-    <bookmark href="https://sternenfischer.org/kieztandem/" id="104">
-      <title>Kieztandem</title>
-    </bookmark>
-    <bookmark href="https://www.interaxion-tk.de/" id="366">
-      <title>IntegraxionKöpenick</title>
-    </bookmark>
+    <folder id="367">
+      <title>Freiwillig</title>
+      <bookmark href="https://www.interaxion-tk.de/" id="366">
+        <title>IntegraxionKöpenick</title>
+      </bookmark>
+      <bookmark href="https://sternenfischer.org/kieztandem/" id="104">
+        <title>Kieztandem</title>
+      </bookmark>
+    </folder>
   </folder>
   <bookmark href="https://bfu.goethe.de/b2_mod_2MX6/index.php" id="13">
     <title>B2 Modellsatz</title>
