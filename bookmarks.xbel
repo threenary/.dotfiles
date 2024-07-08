@@ -70,11 +70,11 @@
   </bookmark>
   <folder id="4">
     <title>Correo</title>
-    <bookmark href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https://mail.google.com/mail/&amp;ss=1&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2" id="31">
-      <title>Gmail</title>
-    </bookmark>
     <bookmark href="https://mail.yahoo.com/d/folders/1?.intl=de&amp;.lang=de-DE&amp;.partner=none&amp;.src=fp" id="32">
       <title>Yahoo!</title>
+    </bookmark>
+    <bookmark href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https://mail.google.com/mail/&amp;ss=1&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2" id="31">
+      <title>Gmail</title>
     </bookmark>
     <bookmark href="https://groups.google.com/forum/?hl=es&amp;fromgroups#!myforums" id="33">
       <title>Google Groups</title>
