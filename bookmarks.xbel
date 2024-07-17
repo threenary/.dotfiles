@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :367: for Floccus bookmark sync browser extension -->
+<!--- highestId :368: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1078,6 +1078,9 @@
   </bookmark>
   <bookmark href="https://mein-deutschbuch.de/startseite.html" id="365">
     <title>mein-deutschbuch</title>
+  </bookmark>
+  <bookmark href="https://www.goethe.de/de/spr/prf/vor.html" id="368">
+    <title>Prüfungsvorbereitung - Goethe-Institut</title>
   </bookmark>
 </folder>
 <folder id="361">
