@@ -596,6 +596,9 @@
         <bookmark href="https://bfu.goethe.de/b1_mod/index.php" id="373">
           <title>Goethe-Zertifikat B1 Modellsatz</title>
         </bookmark>
+        <bookmark href="https://bfu.goethe.de/b2_mod_2MX6/index.php" id="13">
+          <title>B2 Modellsatz</title>
+        </bookmark>
       </folder>
     </folder>
     <folder id="87">
@@ -1079,14 +1082,8 @@
       <title>IPTV Community</title>
     </bookmark>
   </folder>
-  <bookmark href="https://bfu.goethe.de/b2_mod_2MX6/index.php" id="13">
-    <title>B2 Modellsatz</title>
-  </bookmark>
   <bookmark href="https://learngerman.dw.com/de/fortgeschrittene/s-62079033" id="14">
     <title>Fortgeschrittene</title>
-  </bookmark>
-  <bookmark href="https://www.goethe.de/de/spr/prf/vor.html" id="368">
-    <title>Prüfungsvorbereitung - Goethe-Institut</title>
   </bookmark>
 </folder>
 <folder id="361">
