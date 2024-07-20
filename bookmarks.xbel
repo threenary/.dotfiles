@@ -637,9 +637,6 @@
     <bookmark href="https://berlin-berlin.learn-cube.com/" id="89">
       <title>LearnCube</title>
     </bookmark>
-    <bookmark href="http://dict.leo.org/esde?lp=esde&amp;lang=de&amp;searchLoc=0&amp;cmpType=relaxed&amp;sectHdr=on&amp;spellToler=&amp;search=" id="90">
-      <title>Leo</title>
-    </bookmark>
     <bookmark href="http://de.pons.eu/" id="91">
       <title>PONS.de</title>
     </bookmark>
@@ -1086,7 +1083,7 @@
     <title>Prüfungsvorbereitung - Goethe-Institut</title>
   </bookmark>
   <bookmark href="https://www.lebenindeutschland.eu/test" id="370">
-    <title>Den Test „Leben in Deutschland“ starten - Test Leben in Deutschland</title>
+    <title>Leben in Deutschland</title>
   </bookmark>
 </folder>
 <folder id="361">
