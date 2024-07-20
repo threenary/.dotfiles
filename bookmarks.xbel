@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :370: for Floccus bookmark sync browser extension -->
+<!--- highestId :371: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -588,6 +588,9 @@
       <bookmark href="https://www.testdaf.de/de/teilnehmende/der-papierbasierte-testdaf/vorbereitung-auf-den-papierbasierten-testdaf/" id="214">
         <title>TestDaF</title>
       </bookmark>
+      <folder id="371">
+        <title>Einburgerung</title>
+      </folder>
     </folder>
     <folder id="87">
       <title>English</title>
