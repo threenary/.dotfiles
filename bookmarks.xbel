@@ -590,6 +590,9 @@
       </bookmark>
       <folder id="371">
         <title>Einburgerung</title>
+        <bookmark href="https://www.lebenindeutschland.eu/test" id="370">
+          <title>Leben in Deutschland</title>
+        </bookmark>
       </folder>
     </folder>
     <folder id="87">
@@ -1081,9 +1084,6 @@
   </bookmark>
   <bookmark href="https://www.goethe.de/de/spr/prf/vor.html" id="368">
     <title>Prüfungsvorbereitung - Goethe-Institut</title>
-  </bookmark>
-  <bookmark href="https://www.lebenindeutschland.eu/test" id="370">
-    <title>Leben in Deutschland</title>
   </bookmark>
 </folder>
 <folder id="361">
