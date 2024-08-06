@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :377: for Floccus bookmark sync browser extension -->
+<!--- highestId :378: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -60,6 +60,9 @@
     </bookmark>
     <bookmark href="https://www.vodafone.de/hilfe/stoerung.html?icmp=pub:netzsassistent:1m" id="30">
       <title>Vodafone Störung</title>
+    </bookmark>
+    <bookmark href="https://status.networkoverview.vodafone.de/" id="378">
+      <title>Vodafone Störungsfinder</title>
     </bookmark>
   </folder>
   <bookmark href="https://keep.google.com/" id="3">
