@@ -379,30 +379,6 @@
         <title>Stéphane Ducasse</title>
       </bookmark>
     </folder>
-    <folder id="81">
-      <title>Clojure</title>
-      <bookmark href="https://lambdaisland.com/" id="179">
-        <title>Lambda Island</title>
-      </bookmark>
-      <bookmark href="https://practicalli.github.io/" id="180">
-        <title>Practicali</title>
-      </bookmark>
-      <bookmark href="https://purelyfunctional.tv/" id="181">
-        <title>Purely Functional</title>
-      </bookmark>
-      <bookmark href="https://www.4clojure.com/" id="182">
-        <title>4clojure</title>
-      </bookmark>
-      <bookmark href="https://www.braveclojure.com/" id="183">
-        <title>Brave Clojure</title>
-      </bookmark>
-      <bookmark href="http://cljart.github.io/" id="184">
-        <title>CLJ Art Collective</title>
-      </bookmark>
-      <bookmark href="https://clojuredocs.org/" id="185">
-        <title>ClojureDocs</title>
-      </bookmark>
-    </folder>
     <folder id="82">
       <title>Katas</title>
       <bookmark href="https://exercism.io/" id="186">
