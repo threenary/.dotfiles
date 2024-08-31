@@ -127,66 +127,6 @@
         <title>Free programming books</title>
       </bookmark>
     </folder>
-    <folder id="37">
-      <title>Agile</title>
-      <bookmark href="http://agilelib.net/" id="120">
-        <title>AgileLib.Net</title>
-      </bookmark>
-      <bookmark href="http://scrumtrainingseries.com/" id="121">
-        <title>Scrum Training Series</title>
-      </bookmark>
-      <bookmark href="http://www.extremeprogramming.org/" id="122">
-        <title>Extremme Programming</title>
-      </bookmark>
-      <bookmark href="http://www.liberatingstructures.com/ls-menu/" id="123">
-        <title>Liberating Structures</title>
-      </bookmark>
-      <bookmark href="http://www.funretrospectives.com/" id="124">
-        <title>Fun Retrospectives</title>
-      </bookmark>
-      <bookmark href="http://plans-for-retrospectives.com/" id="125">
-        <title>Retromat</title>
-      </bookmark>
-      <bookmark href="https://www.scrum.org/resources/suggested-reading-professional-scrum-master" id="126">
-        <title>Suggested Reading for Professional Scrum Master™ | Scrum.org</title>
-      </bookmark>
-      <bookmark href="https://www.scrumguides.org/scrum-guide.html" id="127">
-        <title>Scrum Guide</title>
-      </bookmark>
-      <bookmark href="https://www.mountaingoatsoftware.com/exclusive/scrum-foundations" id="128">
-        <title>Scrum Foundations</title>
-      </bookmark>
-      <bookmark href="https://mlapshin.com/index.php/scrum-quizzes/" id="129">
-        <title>Scrum Quizzes – Mikhail Lapshin</title>
-      </bookmark>
-      <bookmark href="https://survey.zombiescrum.org/" id="130">
-        <title>Zombie Scrum Checker</title>
-      </bookmark>
-    </folder>
-    <folder id="38">
-      <title>Courses</title>
-      <bookmark href="http://hackr.io/" id="131">
-        <title>hackr.io</title>
-      </bookmark>
-      <bookmark href="https://www.executeprogram.com/" id="132">
-        <title>Execute Program</title>
-      </bookmark>
-      <bookmark href="https://exercism.org/" id="133">
-        <title>Exercism</title>
-      </bookmark>
-      <bookmark href="https://kube.academy/courses" id="134">
-        <title>KubeAcademy</title>
-      </bookmark>
-      <bookmark href="https://academy.lightbend.com/courses" id="135">
-        <title>Lightbend Academy</title>
-      </bookmark>
-      <bookmark href="https://fullstackopen.com/en/" id="136">
-        <title>Full stack open 2021</title>
-      </bookmark>
-      <bookmark href="https://www.jetbrains.com/academy/" id="137">
-        <title>JetBrains Academy</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://github.com/joebew42/study-path" id="39">
       <title>The SWDev Study Path</title>
     </bookmark>
