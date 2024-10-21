@@ -597,6 +597,9 @@
       <bookmark href="https://www.degewo.de/" id="235">
         <title>Degewo</title>
       </bookmark>
+      <bookmark href="https://www.finbird.digital/en/" id="252">
+        <title>Mortgage consulting for expats</title>
+      </bookmark>
       <bookmark href="https://www.wbm.de/" id="236">
         <title>WBM</title>
       </bookmark>
@@ -620,6 +623,30 @@
       </bookmark>
       <bookmark href="https://www.berlinhaus.com/mietangebote/" id="243">
         <title>BERLINHAUS</title>
+      </bookmark>
+      <bookmark href="https://www.immonexxt.com/de/mietangebote-wohnen" id="245">
+        <title>Immonexxt</title>
+      </bookmark>
+      <bookmark href="https://www.strategis.online/ff_objekte/int_objekte.php?LKAUFART=Mieter&amp;language=1031" id="246">
+        <title>STRATEGIS</title>
+      </bookmark>
+      <bookmark href="http://www.paragonberlin.com/mietangebote/" id="247">
+        <title>Paragon Apartments</title>
+      </bookmark>
+      <bookmark href="https://www.berlin-neubau.com/" id="248">
+        <title>Grossmann &amp; Berger</title>
+      </bookmark>
+      <bookmark href="https://www.spotahome.com/" id="249">
+        <title>Spotahome</title>
+      </bookmark>
+      <bookmark href="https://www.livinginberlin.de/angebote/mieten" id="250">
+        <title>⁣Living in Berlin</title>
+      </bookmark>
+      <bookmark href="https://hihc.de/immobilien-ergebnisse?script=immosearchfilter&amp;objektart=wohnung&amp;marktart=miete_pacht&amp;ort=Berlin" id="251">
+        <title>Immobilienmakler HIHC</title>
+      </bookmark>
+      <bookmark href="https://www.buena.com/en/how-it-works" id="253">
+        <title>Buena</title>
       </bookmark>
       <folder id="244">
         <title>Zeitliche</title>
@@ -660,33 +687,6 @@
           <title>66 Monkeys</title>
         </bookmark>
       </folder>
-      <bookmark href="https://www.immonexxt.com/de/mietangebote-wohnen" id="245">
-        <title>Immonexxt</title>
-      </bookmark>
-      <bookmark href="https://www.strategis.online/ff_objekte/int_objekte.php?LKAUFART=Mieter&amp;language=1031" id="246">
-        <title>STRATEGIS</title>
-      </bookmark>
-      <bookmark href="http://www.paragonberlin.com/mietangebote/" id="247">
-        <title>Paragon Apartments</title>
-      </bookmark>
-      <bookmark href="https://www.berlin-neubau.com/" id="248">
-        <title>Grossmann &amp; Berger</title>
-      </bookmark>
-      <bookmark href="https://www.spotahome.com/" id="249">
-        <title>Spotahome</title>
-      </bookmark>
-      <bookmark href="https://www.livinginberlin.de/angebote/mieten" id="250">
-        <title>⁣Living in Berlin</title>
-      </bookmark>
-      <bookmark href="https://hihc.de/immobilien-ergebnisse?script=immosearchfilter&amp;objektart=wohnung&amp;marktart=miete_pacht&amp;ort=Berlin" id="251">
-        <title>Immobilienmakler HIHC</title>
-      </bookmark>
-      <bookmark href="https://www.finbird.digital/en/" id="252">
-        <title>Mortgage consulting for expats</title>
-      </bookmark>
-      <bookmark href="https://www.buena.com/en/how-it-works" id="253">
-        <title>Buena</title>
-      </bookmark>
     </folder>
     <folder id="95">
       <title>Sehenswürdigkeiten</title>
