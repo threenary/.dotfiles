@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :383: for Floccus bookmark sync browser extension -->
+<!--- highestId :384: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -249,6 +249,9 @@
     </bookmark>
     <bookmark href="https://traderlion.com/?checkout_id=8103a8ad-7ad6-42b4-9ad9-9391a5a47003" id="383">
       <title>Learn Trading From Experts | TraderLion</title>
+    </bookmark>
+    <bookmark href="https://www.zeit.de/index" id="384">
+      <title>ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten</title>
     </bookmark>
   </folder>
   <folder id="10">
