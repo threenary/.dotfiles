@@ -220,9 +220,6 @@
     <bookmark href="https://www.grenzenlos-eisern.de/" id="66">
       <title>Grenznelos</title>
     </bookmark>
-    <bookmark href="https://anmeldung.fc-union-berlin.de/auth/realms/union/protocol/openid-connect/auth?client_id=union-tickets&amp;scope=openid+lms_id&amp;redirect_uri=https%3a%2f%2ftickets.union-zeughaus.de%2funveu%2fSynwayLoginSso%2fLoginCallback%2fAnmeldung&amp;response_type=code" id="385">
-      <title>Sign in to union</title>
-    </bookmark>
   </folder>
   <folder id="9">
     <title>Bolsa</title>
