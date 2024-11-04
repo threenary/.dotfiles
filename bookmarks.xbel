@@ -574,9 +574,6 @@
     <bookmark href="https://youglish.com/german" id="386">
       <title>How to Pronounce...</title>
     </bookmark>
-    <bookmark href="https://sporttotal.tv/" id="387">
-      <title>Sporttotal Home</title>
-    </bookmark>
   </folder>
   <folder id="12">
     <title>Berlin</title>
@@ -932,6 +929,9 @@
       </bookmark>
       <bookmark href="https://www.zeit.de/index" id="384">
         <title>ZEIT ONLINE</title>
+      </bookmark>
+      <bookmark href="https://sporttotal.tv/" id="387">
+        <title>Sporttotal</title>
       </bookmark>
     </folder>
     <folder id="99">
