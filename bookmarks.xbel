@@ -127,6 +127,9 @@
     <bookmark href="https://github.com/joebew42/study-path" id="39">
       <title>The SWDev Study Path</title>
     </bookmark>
+    <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
+      <title>DataEng Study Path</title>
+    </bookmark>
     <bookmark href="https://github.com/donnemartin/system-design-primer/" id="40">
       <title>The System Design Primer</title>
     </bookmark>
@@ -1012,9 +1015,6 @@
   </bookmark>
   <bookmark href="https://www.cloudskillsboost.google/paths/16" id="391">
     <title>Google Cloud Skills Boost</title>
-  </bookmark>
-  <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
-    <title>GitHub - datastacktv/data-engineer-roadmap: Roadmap to becoming a data engineer in 2021</title>
   </bookmark>
 </folder>
 <folder id="361">
