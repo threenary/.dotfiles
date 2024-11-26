@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :391: for Floccus bookmark sync browser extension -->
+<!--- highestId :392: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1012,6 +1012,9 @@
   </bookmark>
   <bookmark href="https://www.cloudskillsboost.google/paths/16" id="391">
     <title>Google Cloud Skills Boost</title>
+  </bookmark>
+  <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
+    <title>GitHub - datastacktv/data-engineer-roadmap: Roadmap to becoming a data engineer in 2021</title>
   </bookmark>
 </folder>
 <folder id="361">
