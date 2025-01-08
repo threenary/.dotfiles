@@ -1004,6 +1004,9 @@
       <title>vhs berlin</title>
     </bookmark>
   </folder>
+  <bookmark href="https://www.vhsit.berlin.de/VHSKURSE/BusinessPages/CourseSearch.aspx" id="395">
+    <title>VHS</title>
+  </bookmark>
   <bookmark href="https://learngerman.dw.com/de/fortgeschrittene/s-62079033" id="14">
     <title>Fortgeschrittene</title>
   </bookmark>
@@ -1012,9 +1015,6 @@
   </bookmark>
   <bookmark href="https://developer.confluent.io/courses/#fundamentals" id="394">
     <title>Kafka</title>
-  </bookmark>
-  <bookmark href="https://www.vhsit.berlin.de/VHSKURSE/BusinessPages/CourseSearch.aspx" id="395">
-    <title>VHS</title>
   </bookmark>
 </folder>
 <folder id="361">
