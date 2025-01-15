@@ -627,6 +627,9 @@
       <bookmark href="https://www.wbm.de/" id="236">
         <title>WBM</title>
       </bookmark>
+      <bookmark href="https://www.gesobau.de/" id="401">
+        <title>Hier wohnt Berlin | GESOBAU</title>
+      </bookmark>
       <bookmark href="https://www.stadtundland.de/index.php" id="237">
         <title>STADT UND LAND</title>
       </bookmark>
@@ -711,9 +714,6 @@
           <title>66 Monkeys</title>
         </bookmark>
       </folder>
-      <bookmark href="https://www.gesobau.de/" id="401">
-        <title>Hier wohnt Berlin | GESOBAU</title>
-      </bookmark>
     </folder>
     <folder id="95">
       <title>Sehenswürdigkeiten</title>
