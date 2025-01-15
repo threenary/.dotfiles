@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :400: for Floccus bookmark sync browser extension -->
+<!--- highestId :401: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -711,6 +711,9 @@
           <title>66 Monkeys</title>
         </bookmark>
       </folder>
+      <bookmark href="https://www.gesobau.de/" id="401">
+        <title>Hier wohnt Berlin | GESOBAU</title>
+      </bookmark>
     </folder>
     <folder id="95">
       <title>Sehenswürdigkeiten</title>
