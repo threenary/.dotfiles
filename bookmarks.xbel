@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :401: for Floccus bookmark sync browser extension -->
+<!--- highestId :402: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1033,6 +1033,9 @@
   </bookmark>
   <bookmark href="https://developer.confluent.io/courses/#fundamentals" id="394">
     <title>Kafka</title>
+  </bookmark>
+  <bookmark href="https://fanartikel.union-zeughaus.de/products/t-shirt-an-der-wuhlheide-dunkelgrau?variant=48473137119573" id="402">
+    <title>T-Shirt An der Wuhlheide - dunkelgrau – Union Zeughaus</title>
   </bookmark>
 </folder>
 <folder id="361">
