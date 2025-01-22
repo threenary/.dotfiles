@@ -945,6 +945,9 @@
       <bookmark href="https://taz.de/" id="389">
         <title>taz.de</title>
       </bookmark>
+      <bookmark href="https://www.radioeins.de/livestream/" id="405">
+        <title>radioeins</title>
+      </bookmark>
     </folder>
     <folder id="99">
       <title>Beratung</title>
@@ -968,9 +971,6 @@
       </bookmark>
       <bookmark href="https://www.buhl.de/steuer/#preis" id="404">
         <title>WISO Steuer: Steuer machen mit der App des Testsiegers</title>
-      </bookmark>
-      <bookmark href="https://www.radioeins.de/livestream/" id="405">
-        <title>Livestream - radioeins live hören | radioeins</title>
       </bookmark>
     </folder>
     <folder id="100">
