@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :404: for Floccus bookmark sync browser extension -->
+<!--- highestId :405: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -968,6 +968,9 @@
       </bookmark>
       <bookmark href="https://www.buhl.de/steuer/#preis" id="404">
         <title>WISO Steuer: Steuer machen mit der App des Testsiegers</title>
+      </bookmark>
+      <bookmark href="https://www.radioeins.de/livestream/" id="405">
+        <title>Livestream - radioeins live hören | radioeins</title>
       </bookmark>
     </folder>
     <folder id="100">
