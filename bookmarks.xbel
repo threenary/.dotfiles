@@ -973,27 +973,6 @@
         <title>WISO Steuer: Steuer machen mit der App des Testsiegers</title>
       </bookmark>
     </folder>
-    <folder id="100">
-      <title>Fahrrad</title>
-      <bookmark href="https://www.fahrrad.de/fahrraeder/" id="309">
-        <title>fahrrad.de</title>
-      </bookmark>
-      <bookmark href="https://shop.zweirad-stadler.de/fahrrad-shop/city-trekkingraeder/trekkingrad-crossrad/" id="310">
-        <title>stadler.de</title>
-      </bookmark>
-      <bookmark href="https://www.ks-cycling.com/" id="311">
-        <title>Fahrrad Shop</title>
-      </bookmark>
-      <bookmark href="http://berlinerfahrradmarkt.de/" id="312">
-        <title>Berliner Fahrradmarkt</title>
-      </bookmark>
-      <bookmark href="https://www.das-radhaus.de/" id="313">
-        <title>Radhaus</title>
-      </bookmark>
-      <bookmark href="https://nanobike.de/en/" id="314">
-        <title>nanobike.de</title>
-      </bookmark>
-    </folder>
     <bookmark href="https://www.stromnetz.berlin/en/" id="101">
       <title>Stromnetz Berlin</title>
     </bookmark>
@@ -1004,7 +983,7 @@
       <title>Motorbootführerschein</title>
     </bookmark>
     <folder id="367">
-      <title>Freiwillig</title>
+      <title>Ehrenamtlich</title>
       <bookmark href="https://www.interaxion-tk.de/" id="366">
         <title>IntegraxionKöpenick</title>
       </bookmark>
