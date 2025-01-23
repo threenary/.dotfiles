@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :406: for Floccus bookmark sync browser extension -->
+<!--- highestId :407: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -518,6 +518,9 @@
       </folder>
       <bookmark href="https://www.reddit.com/r/German/comments/ldzj5d/goethe_zertifikat_b2_module_exams/" id="406">
         <title>Goethe Zertifikat B2 Module Exams : r/German</title>
+      </bookmark>
+      <bookmark href="https://www.vhsit.berlin.de/VHSKURSE/BusinessPages/CourseList.aspx" id="407">
+        <title>Die Berliner Volkshochschulen - Kursliste</title>
       </bookmark>
     </folder>
     <folder id="87">
