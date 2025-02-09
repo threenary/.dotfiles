@@ -226,9 +226,6 @@
     <bookmark href="https://sporttotal.tv/teams/8c22f795-b8de-4ab7-8818-4c97d437ff36" id="403">
       <title>Sporttotal.tv</title>
     </bookmark>
-    <bookmark href="https://stronglifts.com/" id="409">
-      <title>Strength Training &amp; Muscle Building | Stronglifts: Strength Training and Muscle Building</title>
-    </bookmark>
   </folder>
   <folder id="9">
     <title>Bolsa</title>
@@ -1008,6 +1005,9 @@
     <title>Gym</title>
     <bookmark href="https://chatgpt.com/c/67a5c667-3968-800f-a912-823e650687e2" id="411">
       <title>Gym Routine for Marathon</title>
+    </bookmark>
+    <bookmark href="https://stronglifts.com/" id="409">
+      <title>Stronglifts</title>
     </bookmark>
   </folder>
 </folder>
