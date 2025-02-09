@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :409: for Floccus bookmark sync browser extension -->
+<!--- highestId :410: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1004,6 +1004,9 @@
   <bookmark href="https://fanartikel.union-zeughaus.de/products/t-shirt-an-der-wuhlheide-dunkelgrau?variant=48473137119573" id="402">
     <title>T Shirt</title>
   </bookmark>
+  <folder id="410">
+    <title>Gym</title>
+  </folder>
 </folder>
 <folder id="361">
   <title>Other Bookmarks</title>
