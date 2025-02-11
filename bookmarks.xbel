@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :413: for Floccus bookmark sync browser extension -->
+<!--- highestId :414: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1006,11 +1006,11 @@
     <bookmark href="https://stronglifts.com/" id="409">
       <title>Stronglifts</title>
     </bookmark>
-    <bookmark href="https://marathonhandbook.com/couch-to-half-marathon/#couch-to-half-marathon-training-plan-download" id="412">
-      <title>Couch To Half Marathon Training Plan + Ultimate Training Guide</title>
-    </bookmark>
     <bookmark href="https://marathonhandbook.com/couch-to-half-marathon/#the-couch-to-half-marathon-training-plan" id="413">
       <title>Couch To Half Marathon Training Plan + Ultimate Training Guide</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/15wSHzr8MSYbNSf4BRYEFCXUmykkRy6qy8ePv3jMM-3Y/edit?gid=2032489093#gid=2032489093" id="414">
+      <title>Couch To Half Marathon Training Plan - Google Sheets</title>
     </bookmark>
   </folder>
 </folder>
