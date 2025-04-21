@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :418: for Floccus bookmark sync browser extension -->
+<!--- highestId :419: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -1015,8 +1015,8 @@
   </folder>
   <folder id="417">
     <title>Lessen</title>
-    <bookmark href="https://www.goethe.de/prj/zei/de/art/26458529.html" id="418">
-      <title>Lesetipps für den „Zauberberg“ - Zeitgeister - Das Kulturmagazin des Goethe-Instituts</title>
+    <bookmark href="https://www.goethe.de/prj/zei/de/index.html" id="419">
+      <title>Zeitgeister - Das Kulturmagazin des Goethe-Instituts</title>
     </bookmark>
   </folder>
 </folder>
