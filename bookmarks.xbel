@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :420: for Floccus bookmark sync browser extension -->
+<!--- highestId :421: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -518,6 +518,9 @@
       </bookmark>
       <bookmark href="https://www.goethe.de/prj/zei/de/index.html" id="419">
         <title>Zeitgeister - Das Kulturmagazin des Goethe-Instituts</title>
+      </bookmark>
+      <bookmark href="https://deutsch-vorbereitung.com/" id="421">
+        <title>Vorbereitung mit BO</title>
       </bookmark>
     </folder>
     <folder id="88">
