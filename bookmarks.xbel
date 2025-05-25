@@ -426,22 +426,13 @@
       <bookmark href="https://spring.io/projects/spring-cloud-function#overview" id="47">
         <title>Spring Cloud Function</title>
       </bookmark>
-      <folder id="48">
-        <title>Threenary</title>
-        <bookmark href="https://jamstack.org/generators/" id="156">
-          <title>Static Site Generators - Top Open Source SSGs | Jamstack</title>
-        </bookmark>
-      </folder>
+      <bookmark href="https://jamstack.org/generators/" id="156">
+        <title>Static Site Generators</title>
+      </bookmark>
       <folder id="49">
         <title>Kotlin</title>
-        <bookmark href="https://github.com/JetBrains/kotless" id="157">
-          <title>JetBrains/kotless: Kotlin Serverless Framework</title>
-        </bookmark>
         <bookmark href="https://play.kotlinlang.org/hands-on/overview" id="158">
           <title>Kotlin hands-on</title>
-        </bookmark>
-        <bookmark href="https://www.kotlinvsjava.com/" id="159">
-          <title>Kotlin vs Java</title>
         </bookmark>
         <bookmark href="https://ktor.io/learn/" id="160">
           <title>Learn | Ktor Framework</title>
