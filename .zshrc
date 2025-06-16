@@ -85,10 +85,10 @@ ZSH_THEME="robbyrussell"
 plugins=(
     git
     aws
+    azure
     npm
+    pnpm
     node
-    docker
-    docker-compose
     terraform
     sdk
 )
@@ -140,3 +140,7 @@ export SDKMAN_DIR="$HOME/.sdkman"
 
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
+
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+export PATH="/Users/ggomezsullain/.rd/bin:$PATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
