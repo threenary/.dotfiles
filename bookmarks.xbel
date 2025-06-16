@@ -1,978 +1,1011 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :423: for Floccus bookmark sync browser extension -->
+<!--- highestId :434: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
-  <folder id="2">
-    <title>Servicios</title>
-    <bookmark href="https://www.bancsabadell.com/cs/Satellite/SabAtl/BS-Online/1191332204053/es/" id="15">
-      <title>BS Online</title>
-    </bookmark>
-    <bookmark href="https://www.dkb.de/" id="16">
-      <title>DKB AG</title>
-    </bookmark>
-    <bookmark href="https://app.n26.com/login" id="17">
-      <title>N26</title>
-    </bookmark>
-    <bookmark href="https://www.elster.de/eportal/login/softpse" id="18">
-      <title>ELSTER</title>
-    </bookmark>
-    <bookmark href="https://www.tk.de/service/login/techniker/meine-tk-2000008" id="19">
-      <title>Die Techniker</title>
-    </bookmark>
-    <bookmark href="https://lamevasalut.gencat.cat/web/cps/login" id="20">
-      <title>La Meva Salut</title>
-    </bookmark>
-    <bookmark href="https://www2.personas.santander.com.ar/obp-webapp/angular/#!/login" id="21">
-      <title>Rio</title>
-    </bookmark>
-    <bookmark href="https://transferwise.com/login#/" id="22">
-      <title>Transferwise</title>
-    </bookmark>
-    <bookmark href="https://paysend.com/en-ar" id="23">
-      <title>Paysend</title>
-    </bookmark>
-    <bookmark href="https://www.airtm.com/#/" id="25">
-      <title>Airtm</title>
-    </bookmark>
-    <folder id="26">
-      <title>Utiles</title>
-      <bookmark href="http://192.168.0.1/" id="105">
-        <title>Vodafone Router</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://uphold.com/" id="27">
-      <title>Uphold</title>
-    </bookmark>
-    <bookmark href="https://www.winsim.de/" id="28">
-      <title>winSIM</title>
-    </bookmark>
-    <bookmark href="https://www.vodafone.de/meinvodafone/services/" id="29">
-      <title>Vodafone</title>
-    </bookmark>
-    <bookmark href="https://www.vodafone.de/hilfe/stoerung.html?icmp=pub:netzsassistent:1m" id="30">
-      <title>Vodafone Störung</title>
-    </bookmark>
-    <bookmark href="https://status.networkoverview.vodafone.de/" id="378">
-      <title>Vodafone Störungsfinder</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://keep.google.com/" id="3">
-    <title>Keep</title>
-  </bookmark>
-  <folder id="4">
-    <title>Correo</title>
-    <bookmark href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https://mail.google.com/mail/&amp;ss=1&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2" id="31">
-      <title>Gmail</title>
-    </bookmark>
-    <bookmark href="https://mail.yahoo.com/d/folders/1?.intl=de&amp;.lang=de-DE&amp;.partner=none&amp;.src=fp" id="32">
-      <title>Yahoo!</title>
-    </bookmark>
-    <bookmark href="https://groups.google.com/forum/?hl=es&amp;fromgroups#!myforums" id="33">
-      <title>Google Groups</title>
-    </bookmark>
-    <bookmark href="https://www.notion.so/Good-Morning-e22bf1eabf9a4cdd9df60b24abbb2ece" id="34">
-      <title>Notion</title>
-    </bookmark>
-  </folder>
-  <folder id="5">
-    <title>Material</title>
-    <folder id="35">
-      <title>Facultad</title>
-      <bookmark href="http://siga.frba.utn.edu.ar/" id="108">
-        <title>SIGA</title>
-      </bookmark>
-      <bookmark href="http://www.sistemas.frba.utn.edu.ar/" id="109">
-        <title>DISI</title>
-      </bookmark>
-      <bookmark href="http://sites.google.com/site/paradigmasdeprogramacion/" id="110">
-        <title>PDP</title>
-      </bookmark>
-      <bookmark href="http://tacs-utn.com.ar/" id="111">
-        <title>TACS</title>
-      </bookmark>
-      <bookmark href="http://tadp-utn-frba.github.io/" id="112">
-        <title>TADP</title>
-      </bookmark>
-      <bookmark href="http://apit.wikidot.com/" id="113">
-        <title>APIT</title>
-      </bookmark>
-      <bookmark href="https://sites.google.com/site/utndesign/material/apuntes-teoricos" id="114">
-        <title>DISI</title>
-      </bookmark>
-      <bookmark href="https://dds-jv.github.io/" id="115">
-        <title>Diseño de Sistemas</title>
-      </bookmark>
-      <bookmark href="https://sites.google.com/site/programacionui/" id="116">
-        <title>PIUx</title>
-      </bookmark>
-      <bookmark href="https://www.frba.utn.edu.ar/" id="117">
-        <title>UTN.BA</title>
-      </bookmark>
-    </folder>
-    <folder id="36">
-      <title>Books</title>
-      <bookmark href="http://gen.lib.rus.ec/" id="118">
-        <title>Library Genesis</title>
-      </bookmark>
-      <bookmark href="https://github.com/EbookFoundation/free-programming-books" id="119">
-        <title>Free programming books</title>
-      </bookmark>
-      <bookmark href="https://drive.google.com/file/d/12rOxaLd2_uxpgoRAYVOgzucLz2MsyQiV/view" id="379">
-        <title>Audio libro Sistema Sounder Sleep</title>
-      </bookmark>
-      <bookmark href="https://annas-archive.org/" id="397">
-        <title>Anna’s Archive</title>
-      </bookmark>
-      <bookmark href="https://www.dataorienteddesign.com/dodbook/" id="415">
-        <title>Data-Oriented Design</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://github.com/joebew42/study-path" id="39">
-      <title>The SWDev Study Path</title>
-    </bookmark>
-    <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
-      <title>DataEng Study Path</title>
-    </bookmark>
-    <bookmark href="https://github.com/donnemartin/system-design-primer/" id="40">
-      <title>The System Design Primer</title>
-    </bookmark>
-    <folder id="43">
-      <title>Jobs</title>
-      <bookmark href="https://remotive.com/" id="138">
-        <title>Remotive</title>
-      </bookmark>
-      <bookmark href="https://otta.com/" id="139">
-        <title>Otta</title>
-      </bookmark>
-      <bookmark href="https://www.doorsopen.co/jobs/" id="140">
-        <title>Jobs | Doors Open</title>
-      </bookmark>
-      <bookmark href="https://dailyremote.com/" id="141">
-        <title>DailyRemote</title>
-      </bookmark>
-      <bookmark href="https://euremotejobs.com/" id="142">
-        <title>Remote Jobs Europe</title>
-      </bookmark>
-      <bookmark href="https://www.instahyre.com/" id="143">
-        <title>Instahyre</title>
-      </bookmark>
-    </folder>
-  </folder>
-  <folder id="7">
-    <title>EO</title>
-    <bookmark href="https://www.escepticoobservador.com/" id="50">
-      <title>Escéptico Observador</title>
-    </bookmark>
-    <bookmark href="https://hootsuite.com/es/" id="51">
-      <title>Hootsuite</title>
-    </bookmark>
-    <bookmark href="http://www.danielabraham.net/tree/places/sokal/" id="52">
-      <title>Sokal</title>
-    </bookmark>
-    <bookmark href="https://publish.buffer.com/" id="53">
-      <title>Buffer Publish</title>
-    </bookmark>
-    <bookmark href="https://www.smartpassiveincome.com/the-content-pyramid/" id="54">
-      <title>The Content Pyramid</title>
-    </bookmark>
-    <bookmark href="https://photos.google.com/albums" id="55">
-      <title>Albums - Google Photos</title>
-    </bookmark>
-  </folder>
-  <folder id="8">
-    <title>Español</title>
-    <bookmark href="http://www.cde.com.ar/" id="56">
-      <title>CDE</title>
-    </bookmark>
-    <bookmark href="https://twitter.com/cdespanol" id="57">
-      <title>@prensacde</title>
-    </bookmark>
-    <bookmark href="https://www.promiedos.com.ar/league/primera-c/ffjb" id="408">
-      <title>Promiedos</title>
-    </bookmark>
-    <bookmark href="https://www.fastscore.com/argentina/torneo-regional-federal-amateur/standings" id="390">
-      <title>TRFA</title>
-    </bookmark>
-    <bookmark href="https://www.fupa.net/region/berlin" id="59">
-      <title>Berlin</title>
-    </bookmark>
-    <bookmark href="http://www.futbolcatalunya.com/" id="60">
-      <title>FutbolCatalunya</title>
-    </bookmark>
-    <bookmark href="http://xenen.com.ar/" id="61">
-      <title>Xenen</title>
-    </bookmark>
-    <bookmark href="https://www.universofutbol.com.ar/plantillas/archivos/noticias.php?div=4&amp;camp=1541" id="62">
-      <title>UniversoFutbol</title>
-    </bookmark>
-    <bookmark href="https://www.panenka.org/" id="63">
-      <title>Panenka</title>
-    </bookmark>
-    <bookmark href="https://11freunde.de/startseite" id="64">
-      <title>11FREUNDE</title>
-    </bookmark>
-    <bookmark href="https://www.diefalsche9.de/" id="380">
-      <title>Die falsche 9</title>
-    </bookmark>
-    <bookmark href="https://www.grenzenlos-eisern.de/" id="66">
-      <title>Grenznelos</title>
-    </bookmark>
-    <bookmark href="https://codigo55.blogspot.com/" id="396">
-      <title>Código 55</title>
-    </bookmark>
-    <bookmark href="https://leytonorientear.com/" id="398">
-      <title>O R I E N T E A R</title>
-    </bookmark>
-    <bookmark href="https://sporttotal.tv/teams/8c22f795-b8de-4ab7-8818-4c97d437ff36" id="403">
-      <title>Sporttotal.tv</title>
-    </bookmark>
-    <bookmark href="https://alangulotv.lat/" id="423">
-      <title>alangulotv.lat</title>
-    </bookmark>
-    <bookmark href="https://rbtv77.im/" id="422">
-      <title>RBTV77</title>
-    </bookmark>
-  </folder>
-  <folder id="9">
-    <title>Bolsa</title>
-    <bookmark href="https://login.morganstanleyclientserv.com/ux/" id="68">
-      <title>Morgan Stanley</title>
-    </bookmark>
-    <bookmark href="https://login.fidelity.com/ftgw/Fas/Fidelity/IspCust/Refresh/Init/df.chf.ra/" id="69">
-      <title>Fidelity</title>
-    </bookmark>
-    <bookmark href="https://pensionfriend.de/en" id="70">
-      <title>Pensionfriend</title>
-    </bookmark>
-    <bookmark href="https://www.investing.com/equities/germany" id="71">
-      <title>Germany Stock Market</title>
-    </bookmark>
-    <bookmark href="https://www.bullmarketbrokers.com/" id="72">
-      <title>BMB</title>
-    </bookmark>
-    <bookmark href="http://www.tucapital.es/" id="73">
-      <title>TuCapital.es</title>
-    </bookmark>
-    <bookmark href="https://www.franklintempleton.com/" id="75">
-      <title>Franklin Templeton</title>
-    </bookmark>
-    <bookmark href="https://etfdb.com/etfs/" id="76">
-      <title>ETF DB</title>
-    </bookmark>
-    <bookmark href="https://www.justetf.com/en/" id="77">
-      <title>justETF</title>
-    </bookmark>
-    <bookmark href="https://traderlion.com/?checkout_id=8103a8ad-7ad6-42b4-9ad9-9391a5a47003" id="383">
-      <title>Learn Trading From Experts | TraderLion</title>
-    </bookmark>
-  </folder>
-  <folder id="10">
-    <title>Desarrollo</title>
-    <folder id="78">
-      <title>Interview</title>
-      <bookmark href="https://delacruz.dev/blog/entrevista-frontend" id="161">
-        <title>Practica antes de la entrevista</title>
-      </bookmark>
-      <bookmark href="https://mockend.com/" id="162">
-        <title>Mockend</title>
-      </bookmark>
-      <bookmark href="https://jsonplaceholder.typicode.com/" id="163">
-        <title>JSON Test API</title>
-      </bookmark>
-      <bookmark href="https://developers.themoviedb.org/3/getting-started/introduction" id="164">
-        <title>The Movie Database API</title>
-      </bookmark>
-      <bookmark href="https://pokeapi.co/" id="165">
-        <title>PokéAPI</title>
-      </bookmark>
-      <bookmark href="https://bytebytego.com/" id="166">
-        <title>ByteByteGo | Technical Interview Prep</title>
-      </bookmark>
-    </folder>
-    <folder id="79">
-      <title>Architecture</title>
-      <bookmark href="https://adr.github.io/" id="167">
-        <title>Architectural Decision Records | adr.github.io</title>
-      </bookmark>
-      <bookmark href="https://c4model.com/" id="169">
-        <title>The C4 model for visualising architecture</title>
-      </bookmark>
-      <bookmark href="https://codesqueeze.com/the-7-software-ilities-you-need-to-know/" id="168">
-        <title>The 7 Software “-ilities”</title>
-      </bookmark>
-      <bookmark href="https://structurizr.com/" id="170">
-        <title>Structurizr</title>
-      </bookmark>
-      <bookmark href="https://microservices.io/" id="171">
-        <title>microservices.io</title>
-      </bookmark>
-    </folder>
-    <folder id="80">
-      <title>Smalltalk</title>
-      <bookmark href="http://www.slideshare.net/esug/slideshows" id="172">
-        <title>ESUG’s Presentations</title>
-      </bookmark>
-      <bookmark href="http://pharo-project.org/" id="173">
-        <title>Pharo</title>
-      </bookmark>
-      <bookmark href="http://www.fast.org.ar/" id="174">
-        <title>FAST</title>
-      </bookmark>
-      <bookmark href="http://groups.google.com.ar/group/clubSmalltalk?hl=es" id="175">
-        <title>clubSmalltalk</title>
-      </bookmark>
-      <bookmark href="http://sunit.sourceforge.net/index.html" id="176">
-        <title>SUnit</title>
-      </bookmark>
-      <bookmark href="http://www.seaside.st/" id="177">
-        <title>seaside.st</title>
-      </bookmark>
-      <bookmark href="http://stephane.ducasse.free.fr/FreeBooks.html" id="178">
-        <title>Stéphane Ducasse</title>
-      </bookmark>
-    </folder>
-    <folder id="82">
-      <title>Katas</title>
-      <bookmark href="https://exercism.io/" id="186">
-        <title>Exercism</title>
-      </bookmark>
-      <bookmark href="https://kata-log.rocks/" id="187">
-        <title>All Katas</title>
-      </bookmark>
-      <bookmark href="https://katalyst.codurance.com/" id="188">
-        <title>Katalyst</title>
-      </bookmark>
-      <bookmark href="https://developer.confluent.io/100-days-of-code/" id="190">
-        <title>100 Days Of Code with Apache Kafka®</title>
-      </bookmark>
-    </folder>
-    <folder id="83">
-      <title>JavaScript</title>
-      <bookmark href="https://github.com/getify/You-Dont-Know-JS" id="192">
-        <title>You-Dont-Know-JS</title>
-      </bookmark>
-      <bookmark href="https://github.com/getify/Functional-Light-JS" id="193">
-        <title>Functional-Light-JS</title>
-      </bookmark>
-      <bookmark href="https://eloquentjavascript.net/" id="194">
-        <title>Eloquent JavaScript</title>
-      </bookmark>
-      <bookmark href="http://www.json2ts.com/" id="195">
-        <title>JSON to TS</title>
-      </bookmark>
-      <bookmark href="https://www.typescriptlang.org/play" id="196">
-        <title>TS Playground</title>
-      </bookmark>
-      <bookmark href="https://codewithhugo.com/tags/jest/" id="197">
-        <title>Jest · Code with Hugo</title>
-      </bookmark>
-      <bookmark href="https://basarat.gitbook.io/typescript/getting-started" id="198">
-        <title>TypeScript DeepDive</title>
-      </bookmark>
-      <bookmark href="https://typescript-exercises.github.io/" id="213">
-        <title>TypeScript Exercises</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://devdocs.io/" id="84">
-      <title>Docs API</title>
-    </bookmark>
-    <folder id="6">
-      <title>Projects</title>
-      <folder id="44">
-        <title>ImmoScrap</title>
-        <bookmark href="https://www.scrapingbee.com/blog/introduction-to-web-scraping-with-java/" id="144">
-          <title>Introduction to Web Scraping With Java</title>
-        </bookmark>
-        <bookmark href="https://stackabuse.com/web-scraping-the-java-way/" id="145">
-          <title>Web Scraping the Java Way</title>
-        </bookmark>
-        <bookmark href="https://javascriptwebscrapingguy.com/jordan-scrapes-secretary-of-states-oregon/" id="146">
-          <title>Jordan Scrapes Secretary of States: Oregon - JavaScript Web Scraping Guy</title>
-        </bookmark>
-        <bookmark href="https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/" id="147">
-          <title>The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer — Smashing Magazine</title>
-        </bookmark>
-      </folder>
-      <folder id="45">
-        <title>Winery</title>
-        <bookmark href="https://www.drinksco.es/vino-rioja/remirez-de-ganuza-blanco-2018" id="148">
-          <title>Comprar Remírez de Ganuza Blanco 2018 | Precio y Opiniones en Drinks&amp;Co</title>
-        </bookmark>
-        <bookmark href="http://localhost:8080/swagger-ui.html#/vino-controller/createVinoUsingPOST" id="149">
-          <title>Swagger UI</title>
-        </bookmark>
-        <bookmark href="http://localhost:8080/h2-console/login.jsp" id="150">
-          <title>localhost</title>
-        </bookmark>
-        <bookmark href="https://jsoup.org/cookbook/extracting-data/selector-syntax" id="151">
-          <title>JSopu: Use selector-syntax to find elements: jsoup Java HTML parser</title>
-        </bookmark>
-        <bookmark href="https://jsoup.org/apidocs/org/jsoup/select/Selector.html" id="152">
-          <title>JSoup: Selector (jsoup Java HTML Parser 1.14.1 API)</title>
-        </bookmark>
-        <bookmark href="https://cloud0.hospedajeydominios.com:2222/" id="153">
-          <title>cloud0.hospedajeydominios.com | Login</title>
-        </bookmark>
-        <bookmark href="https://medium.com/thebit/top-10-project-based-tutorials-for-learning-javascript-54c80de4f48c" id="154">
-          <title>10 JS Project-Based Tutorials</title>
-        </bookmark>
-        <bookmark href="https://www.pacoperfumerias.com/calvin-klein-ck-be" id="155">
-          <title>Calvin Klein CK BE Eau de Toilette | Precio, Comprar - Paco Perfumerías</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://spring.io/guides#topical-guides" id="46">
-        <title>Spring Topical Guides</title>
-      </bookmark>
-      <bookmark href="https://spring.io/projects/spring-cloud-function#overview" id="47">
-        <title>Spring Cloud Function</title>
-      </bookmark>
-      <bookmark href="https://jamstack.org/generators/" id="156">
-        <title>Static Site Generators</title>
-      </bookmark>
-      <folder id="49">
-        <title>Kotlin</title>
-        <bookmark href="https://play.kotlinlang.org/hands-on/overview" id="158">
-          <title>Kotlin hands-on</title>
-        </bookmark>
-        <bookmark href="https://ktor.io/learn/" id="160">
-          <title>Learn | Ktor Framework</title>
-        </bookmark>
-      </folder>
-    </folder>
-  </folder>
-  <folder id="11">
-    <title>Idiomas</title>
-    <folder id="86">
-      <title>Aleman</title>
-      <folder id="199">
-        <title>Academias</title>
-        <bookmark href="https://berlin-berlin.com.ar/" id="315">
-          <title>Berlin-Berlin</title>
-        </bookmark>
-        <bookmark href="https://www.deutschakademie.de/berlin/alexanderplatz/es" id="316">
-          <title>DeutschAkademie</title>
-        </bookmark>
-        <bookmark href="https://kapitel-zwei.de/" id="317">
-          <title>Kapitel Zwei</title>
-        </bookmark>
-        <bookmark href="https://www.lalia-berlin.com/" id="318">
-          <title>LALIA BERLIN</title>
-        </bookmark>
-        <bookmark href="https://www.sprachenatelier-berlin.de/en" id="319">
-          <title>Sprachenatelier</title>
-        </bookmark>
-        <bookmark href="https://www.gls-german-courses.de/index.html" id="320">
-          <title>GLS</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://www.vhs-lernportal.de/wws/9.php#/wws/100002.php?redirect_after_login=1&amp;sid=21048488137542920560301870187780Saaafcc91" id="203">
-        <title>vhs-Lernportal</title>
-      </bookmark>
-      <bookmark href="https://learngerman.dw.com/es/grammar" id="200">
-        <title>Grammar</title>
-      </bookmark>
-      <bookmark href="https://learngerman.dw.com/de/fortgeschrittene/s-62079033" id="420">
-        <title>Fortgeschrittene</title>
-      </bookmark>
-      <bookmark href="https://www.deutschakademie.de/online-deutschkurs/english/deutschkurs" id="201">
-        <title>Online trainer</title>
-      </bookmark>
-      <bookmark href="https://mein-deutschbuch.de/startseite.html" id="365">
-        <title>mein-deutschbuch</title>
-      </bookmark>
-      <bookmark href="https://www.easygerman.org/" id="202">
-        <title>Easy German</title>
-      </bookmark>
-      <bookmark href="https://seedlang.com/reviews/home" id="204">
-        <title>Seedlang</title>
-      </bookmark>
-      <bookmark href="http://www.schubert-verlag.de/aufgaben/" id="205">
-        <title>Schubert</title>
-      </bookmark>
-      <bookmark href="http://www.grammatiktraining.de/" id="206">
-        <title>GrammatikTraining</title>
-      </bookmark>
-      <bookmark href="http://www.deutschseite.de/inhalt.html" id="207">
-        <title>Toms Deutschseite</title>
-      </bookmark>
-      <bookmark href="http://slowgerman.com/" id="209">
-        <title>Slow German</title>
-      </bookmark>
-      <bookmark href="http://www.vorleser.net/" id="210">
-        <title>vorleser.net</title>
-      </bookmark>
-      <bookmark href="https://www.deutsch-perfekt.com/deutsch-lesen/der-genitiv-drei-minuten" id="211">
-        <title>Der Genitiv in drei Minuten</title>
-      </bookmark>
-      <bookmark href="https://www.reddit.com/r/German/comments/ldzj5d/goethe_zertifikat_b2_module_exams/" id="406">
-        <title>Goethe Zertifikat B2 Module Exams : r/German</title>
-      </bookmark>
-      <bookmark href="https://www.goethe.de/prj/zei/de/index.html" id="419">
-        <title>Zeitgeister - Das Kulturmagazin des Goethe-Instituts</title>
-      </bookmark>
-      <bookmark href="https://deutsch-vorbereitung.com/" id="421">
-        <title>Vorbereitung mit BO</title>
-      </bookmark>
-    </folder>
-    <folder id="88">
-      <title>Ruso</title>
-      <bookmark href="http://cooljugator.com/ru/" id="219">
-        <title>Cool Russian Verb Conjugator</title>
-      </bookmark>
-      <bookmark href="http://learnrussian.rt.com/" id="220">
-        <title>RT LearnRussian</title>
-      </bookmark>
-      <bookmark href="http://learnrussianstepbystep.com/aprender-ruso/" id="221">
-        <title>Aprender Ruso Paso a Paso</title>
-      </bookmark>
-      <bookmark href="http://www.rusogratis.com/gramatica-rusa.php" id="222">
-        <title>Gramatica Ruso</title>
-      </bookmark>
-      <bookmark href="http://www.aulafacil.com/cursos/l25522/idiomas/ruso/ruso/vocales" id="223">
-        <title>AulaFácil</title>
-      </bookmark>
-      <bookmark href="http://www.multitran.ru/c/m.exe?a=1&amp;SHL=2" id="224">
-        <title>словарь Мультитран</title>
-      </bookmark>
-      <bookmark href="http://www.diccionario.ru/cgi-bin/dic.cgi?l=es&amp;page=&amp;forum=&amp;cid=#.VsIoCvnhCUk" id="225">
-        <title>Diccionario.RU</title>
-      </bookmark>
-      <bookmark href="https://translit.ru/" id="226">
-        <title>Транслит по-русски</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://berlin-berlin.learn-cube.com/" id="89">
-      <title>LearnCube</title>
-    </bookmark>
-    <bookmark href="http://de.pons.eu/" id="91">
-      <title>PONS.de</title>
-    </bookmark>
-    <bookmark href="http://es.forvo.com/" id="92">
-      <title>Forvo</title>
-    </bookmark>
-    <bookmark href="https://verbix.com/languages/german" id="93">
-      <title>Verbix</title>
-    </bookmark>
-  </folder>
-  <folder id="12">
-    <title>Berlin</title>
-    <folder id="94">
-      <title>Wohnungen</title>
-      <bookmark href="https://www.immobilienscout24.de/" id="227">
-        <title>ImmoScout24</title>
-      </bookmark>
-      <bookmark href="https://www.immonet.de/" id="228">
-        <title>Immonet</title>
-      </bookmark>
-      <bookmark href="https://bewerbermappe.immowelt.de/bewerbermappe#/" id="229">
-        <title>Immowelt</title>
-      </bookmark>
-      <bookmark href="https://hypofriend.de/en" id="254">
-        <title>Hypofriend</title>
-      </bookmark>
-      <bookmark href="https://www.interhyp.de/" id="255">
-        <title>Interhyp</title>
-      </bookmark>
-      <bookmark href="https://www.finbird.digital/en/" id="252">
-        <title>Mortgage for expats</title>
-      </bookmark>
-      <bookmark href="https://www.grandcityproperty.de/wohnungssuche?city=St%C3%A4dte|Berlin&amp;price=&amp;rooms=&amp;size=&amp;type=M&amp;sortOrder=newest&amp;cityText=Berlin&amp;priceRadio=&amp;roomsRadio=&amp;sizeRadio=&amp;_token=Dve6hgq_yv31FCBwpnqhwsMnARe5ert2w1OqfFP8b-w" id="231">
-        <title>GCP - Immobilien</title>
-      </bookmark>
-      <bookmark href="https://www.wohnbau-gmbh.de/fuer-interessenten/wohnfinder" id="232">
-        <title>Wohnbau GmbH</title>
-      </bookmark>
-      <bookmark href="https://inberlinwohnen.de/wohnungsfinder/" id="233">
-        <title>inBerlinWohnen</title>
-      </bookmark>
-      <bookmark href="https://www.howoge.de/" id="234">
-        <title>HOWOGE</title>
-      </bookmark>
-      <bookmark href="https://www.degewo.de/" id="235">
-        <title>Degewo</title>
-      </bookmark>
-      <bookmark href="https://www.wbm.de/" id="236">
-        <title>WBM</title>
-      </bookmark>
-      <bookmark href="https://www.gesobau.de/" id="401">
-        <title>Hier wohnt Berlin | GESOBAU</title>
-      </bookmark>
-      <bookmark href="https://www.stadtundland.de/index.php" id="237">
-        <title>STADT UND LAND</title>
-      </bookmark>
-      <bookmark href="https://www.gewobag.de/" id="238">
-        <title>Gewobag</title>
-      </bookmark>
-      <bookmark href="https://rent.akelius.com/en/search/germany/apartment/berlin" id="239">
-        <title>Akeliu</title>
-      </bookmark>
-      <bookmark href="https://www.buwog-immobilientreuhand.de/de" id="240">
-        <title>BUWOG</title>
-      </bookmark>
-      <bookmark href="https://www.vonovia.de/de-de/wohnungen-in-berlin?immoType=wohnung&amp;rentType=miete&amp;page=1" id="241">
-        <title>Vonovia</title>
-      </bookmark>
-      <bookmark href="https://www.deutsche-wohnen.com/" id="242">
-        <title>Deutsche Wohnen</title>
-      </bookmark>
-      <bookmark href="https://www.berlinhaus.com/mietangebote/" id="243">
-        <title>BERLINHAUS</title>
-      </bookmark>
-      <bookmark href="https://www.immonexxt.com/de/mietangebote-wohnen" id="245">
-        <title>Immonexxt</title>
-      </bookmark>
-      <bookmark href="https://www.strategis.online/ff_objekte/int_objekte.php?LKAUFART=Mieter&amp;language=1031" id="246">
-        <title>STRATEGIS</title>
-      </bookmark>
-      <bookmark href="http://www.paragonberlin.com/mietangebote/" id="247">
-        <title>Paragon Apartments</title>
-      </bookmark>
-      <bookmark href="https://www.berlin-neubau.com/" id="248">
-        <title>Grossmann &amp; Berger</title>
-      </bookmark>
-      <bookmark href="https://www.spotahome.com/" id="249">
-        <title>Spotahome</title>
-      </bookmark>
-      <bookmark href="https://www.livinginberlin.de/angebote/mieten" id="250">
-        <title>⁣Living in Berlin</title>
-      </bookmark>
-      <bookmark href="https://hihc.de/immobilien-ergebnisse?script=immosearchfilter&amp;objektart=wohnung&amp;marktart=miete_pacht&amp;ort=Berlin" id="251">
-        <title>Immobilienmakler HIHC</title>
-      </bookmark>
-      <bookmark href="https://www.buena.com/en/how-it-works" id="253">
-        <title>Buena</title>
-      </bookmark>
-      <folder id="244">
-        <title>Zeitliche</title>
-        <bookmark href="https://wunderflats.com/en" id="321">
-          <title>Wunderflats</title>
-        </bookmark>
-        <bookmark href="https://www.habyt.com/" id="322">
-          <title>Habyt</title>
-        </bookmark>
-        <bookmark href="https://www.coming-home.com/" id="323">
-          <title>Coming Home</title>
-        </bookmark>
-        <bookmark href="https://visionapartments.com/en/" id="324">
-          <title>VISIONAPARTMENTS</title>
-        </bookmark>
-        <bookmark href="https://www.thehomelike.com/" id="325">
-          <title>HomeLike</title>
-        </bookmark>
-        <bookmark href="https://www.caseaberlino.com/" id="326">
-          <title>CASE a BERLINO</title>
-        </bookmark>
-        <bookmark href="https://www.belong-living.com/" id="327">
-          <title>Belong Living</title>
-        </bookmark>
-        <bookmark href="https://join.quarters.com/s/" id="328">
-          <title>Quarters</title>
-        </bookmark>
-        <bookmark href="https://join.medici-living.com/s/" id="329">
-          <title>Medici Living</title>
-        </bookmark>
-        <bookmark href="https://www.wg-gesucht.de/en/" id="330">
-          <title>WG-Gesucht.de</title>
-        </bookmark>
-        <bookmark href="https://housinganywhere.com/" id="331">
-          <title>HousingAnywhere</title>
-        </bookmark>
-        <bookmark href="https://www.66monkeys.de/en/locations/" id="332">
-          <title>66 Monkeys</title>
-        </bookmark>
-      </folder>
-    </folder>
-    <folder id="95">
-      <title>Sehenswürdigkeiten</title>
-      <folder id="257">
-        <title>Museum</title>
-        <bookmark href="https://www.energie-museum.de/willkommen-beim-emb" id="333">
-          <title>Energie-Museum Berlin</title>
-        </bookmark>
-        <bookmark href="https://www.mhm-gatow.de/de#das-museum" id="334">
-          <title>Start | MHM Berlin-Gatow</title>
-        </bookmark>
-        <bookmark href="https://www.alliiertenmuseum.de/en/about-us/" id="335">
-          <title>AlliiertenMuseum</title>
-        </bookmark>
-        <bookmark href="https://www.hdg.de/traenenpalast/" id="336">
-          <title>Tränenpalast</title>
-        </bookmark>
-        <bookmark href="https://www.stasimuseum.de/en/enbesuch.htm" id="337">
-          <title>Stasimuseum Berlin in der Zentrale des MfS</title>
-        </bookmark>
-        <bookmark href="https://www.bauhaus.de/en/besuch/" id="338">
-          <title>Bauhaus-Archiv | Museum für Gestaltung, Berlin</title>
-        </bookmark>
-        <bookmark href="https://www.museum-karlshorst.de/" id="339">
-          <title>Museum Berlin-Karlshorst</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://www.atlasobscura.com/things-to-do/berlin-germany" id="258">
-        <title>Unusual Attractions in Berlin</title>
-      </bookmark>
-      <bookmark href="https://www.berliner-unterwelten.de/es/index.html" id="259">
-        <title>Berliner Unterwelten</title>
-      </bookmark>
-      <bookmark href="https://www.abandonedberlin.com/" id="260">
-        <title>Abandoned Berlin</title>
-      </bookmark>
-      <bookmark href="https://www.museumsportal-berlin.de/es/museos/?free_entrance=1" id="261">
-        <title>Museumsportal Berlin</title>
-      </bookmark>
-      <bookmark href="https://www.berlin.de/tourismus/insidertipps/3983429-2339440-fuehrungen-auf-den-gasometer-in-schoeneb.html" id="262">
-        <title>Gasometer in Schöneberg</title>
-      </bookmark>
-      <bookmark href="https://www.grandtourofmodernism.com/" id="263">
-        <title>Grand Tour of Modernism</title>
-      </bookmark>
-      <bookmark href="https://digitalcosmonaut.com/" id="264">
-        <title>Digital Cosmonaut</title>
-      </bookmark>
-      <bookmark href="http://fussballrouteberlin.de/" id="265">
-        <title>FUSSBALL ROUTE BERLIN</title>
-      </bookmark>
-    </folder>
-    <folder id="96">
-      <title>Essen</title>
-      <folder id="266">
-        <title>Lateinische Produkte</title>
-        <bookmark href="https://www.mate-tee.de/" id="340">
-          <title>Mate-Tee.de</title>
-        </bookmark>
-        <bookmark href="https://www.yerbamate.ch/de/" id="341">
-          <title>YerbaMate.ch</title>
-        </bookmark>
-        <bookmark href="https://www.uruguayeces.com/es/" id="342">
-          <title>Uruguayeces</title>
-        </bookmark>
-        <bookmark href="https://www.andupez.de/" id="343">
-          <title>Andupez</title>
-        </bookmark>
-        <bookmark href="https://www.loechoenfalta.com/" id="344">
-          <title>Lo Echo en Falta</title>
-        </bookmark>
-        <bookmark href="https://www.mitte-meer.de/" id="345">
-          <title>Mitte Meer</title>
-        </bookmark>
-        <bookmark href="https://latinopoint.de/" id="346">
-          <title>Latino Point</title>
-        </bookmark>
-        <bookmark href="https://don-gaucho.com/" id="347">
-          <title>Don Gaucho</title>
-        </bookmark>
-        <bookmark href="https://www.argentinaencasa.com/" id="348">
-          <title>Argentina en casa</title>
-        </bookmark>
-        <bookmark href="https://argentinameatcompany.com/producto/yerbamate/" id="349">
-          <title>Argentina Meat Company</title>
-        </bookmark>
-        <bookmark href="https://www.deliargentina.com/" id="350">
-          <title>Delicatessen Argentina</title>
-        </bookmark>
-        <bookmark href="https://www.derkleinemarkt.eu/en_GB" id="399">
-          <title>DerKleineMarkt</title>
-        </bookmark>
-      </folder>
-      <bookmark href="https://berlinfoodstories.com/" id="267">
-        <title>Berlin Food Stories</title>
-      </bookmark>
-      <bookmark href="https://trueitalian.top/" id="268">
-        <title>True Italian</title>
-      </bookmark>
-      <bookmark href="https://www.al-andalus-berlin.de/" id="269">
-        <title>al-andalus-berlins</title>
-      </bookmark>
-      <bookmark href="https://www.vinscentwines.de/en/home-ingles/" id="270">
-        <title>Vinscent Wines</title>
-      </bookmark>
-      <bookmark href="https://www.chinchin-berlin.de/privatverkostung" id="382">
-        <title>Chin Chin Weinverkostung</title>
-      </bookmark>
-    </folder>
-    <folder id="97">
-      <title>Ärtze</title>
-      <bookmark href="https://www.jameda.de/" id="271">
-        <title>jameda</title>
-      </bookmark>
-      <bookmark href="https://www.doctolib.de/" id="272">
-        <title>Doctolib</title>
-      </bookmark>
-      <bookmark href="https://clickdoc.de/cd-de/" id="273">
-        <title>CLICKDOC</title>
-      </bookmark>
-      <bookmark href="https://patient.samedi.de/" id="274">
-        <title>samedi</title>
-      </bookmark>
-      <bookmark href="https://de.doctena.de/" id="275">
-        <title>Doctena</title>
-      </bookmark>
-      <bookmark href="https://www.tk-aerztefuehrer.de/TK/Suche_SN/index.js?a=FS1" id="276">
-        <title>TK-Ärzteführer</title>
-      </bookmark>
-      <bookmark href="https://www.116117.de/de/1252.php" id="277">
-        <title>116117.de</title>
-      </bookmark>
-      <bookmark href="https://www.envivas.de/en/products-and-services" id="278">
-        <title>Envivas (TK Travel Insurance)</title>
-      </bookmark>
-      <bookmark href="https://www.kvberlin.de/" id="279">
-        <title>KVBerlin</title>
-      </bookmark>
-      <folder id="280">
-        <title>Augen</title>
-        <bookmark href="https://policum.berlin/" id="351">
-          <title>Ihre Gesundheitszentren in Berlin - Policum Berlin</title>
-        </bookmark>
-        <bookmark href="https://www.augen-arzt-berlin.de/online-terminvereinbarung/" id="352">
-          <title>Augenärzte am Platz der Luftbrücke - Terminvereinbarung</title>
-        </bookmark>
-        <bookmark href="https://www.augenarztpraxis-friedrichshagen.de/" id="353">
-          <title>Startseite - augenarztpraxis-friedrichshagen Jimdo-Page!</title>
-        </bookmark>
-        <bookmark href="https://augenarzt-tiergarten.de/home/" id="354">
-          <title>Augenarztpraxis am Tiergarten in Berlin - Dott.ssa Maceda Gurabardhi</title>
-        </bookmark>
-        <bookmark href="https://www.opticum-augen.de/" id="355">
-          <title>Augenarzt Berlin - Opticum Augentagesklinik Neukölln</title>
-        </bookmark>
-        <bookmark href="https://www.aceandtate.com/us/stores/germany/berlin" id="356">
-          <title>Opticians in Berlin | Book a Free Eye Test | Ace &amp; Tate</title>
-        </bookmark>
-        <bookmark href="https://shopviu.com/en_int/viu-stores/" id="357">
-          <title>VIU EYEWEAR® Optician &amp; Eyewear Shop with free Eye exam</title>
-        </bookmark>
-      </folder>
-      <folder id="281">
-        <title>Diabetologie</title>
-        <bookmark href="https://www.dr-scherwinski.de/termin-vereinbaren" id="358">
-          <title>Praxis Dr. Martin Scherwinski</title>
-        </bookmark>
-        <bookmark href="https://diabetespraxis-prenzlauerberg.de/" id="359">
-          <title>diabetespraxis prenzlauer berg</title>
-        </bookmark>
-        <bookmark href="https://www.dr-scherwinski.de/termin-vereinbaren" id="360">
-          <title>Praxis Dr. Martin Scherwinski</title>
-        </bookmark>
-      </folder>
-      <bookmark href="http://www.sporthopaedicum.de/index.php?id=55" id="282">
-        <title>sporthopaedicum</title>
-      </bookmark>
-      <bookmark href="https://www.bromand-sancho-loras.de/" id="283">
-        <title>Sancho Loras</title>
-      </bookmark>
-      <bookmark href="https://lopezduran.de/" id="284">
-        <title>Nutricionista Lopez Duran</title>
-      </bookmark>
-      <bookmark href="https://www.doctolib.de/zahnmedizin/berlin/norma-de-wuensche" id="285">
-        <title>Norma de Wünsche, Zahnarzt in Berlin</title>
-      </bookmark>
-      <bookmark href="https://www.bghw.de/weiterbildung-services/durchgangsarzt-finden" id="286">
-        <title>Accident Doctor</title>
-      </bookmark>
-    </folder>
-    <folder id="98">
-      <title>Media</title>
-      <bookmark href="https://www.welt.de/" id="287">
-        <title>WELT</title>
-      </bookmark>
-      <bookmark href="https://www.dw.com/de/themen/s-9077" id="288">
-        <title>DW</title>
-      </bookmark>
-      <bookmark href="https://www.exberliner.com/" id="292">
-        <title>EXBERLINER</title>
-      </bookmark>
-      <bookmark href="https://www.berliner-zeitung.de/" id="293">
-        <title>Berliner Zeitung</title>
-      </bookmark>
-      <bookmark href="https://www.bz-berlin.de/" id="294">
-        <title>B.Z. Berlin</title>
-      </bookmark>
-      <bookmark href="https://www.ladoberlin.com/" id="295">
-        <title>LADO|B|ERLIN</title>
-      </bookmark>
-      <bookmark href="https://www.berliner-woche.de/" id="296">
-        <title>Berliner Woche</title>
-      </bookmark>
-      <bookmark href="https://www.tip-berlin.de/" id="297">
-        <title>tipBerlin</title>
-      </bookmark>
-      <bookmark href="https://www.rbb24.de/" id="298">
-        <title>rbb24</title>
-      </bookmark>
-      <bookmark href="https://www.campact.de/" id="300">
-        <title>Campact</title>
-      </bookmark>
-      <bookmark href="https://www.compact-online.de/" id="301">
-        <title>COMPACT-Magazin</title>
-      </bookmark>
-      <bookmark href="https://www.zeit.de/index" id="384">
-        <title>ZEIT ONLINE</title>
-      </bookmark>
-      <bookmark href="https://taz.de/" id="389">
-        <title>taz.de</title>
-      </bookmark>
-      <bookmark href="https://www.radioeins.de/livestream/" id="405">
-        <title>radioeins</title>
-      </bookmark>
-    </folder>
-    <folder id="99">
-      <title>Beratung</title>
-      <bookmark href="https://www.sympat.me/" id="302">
-        <title>SymPat</title>
-      </bookmark>
-      <bookmark href="https://blog.mygermanexpert.com/" id="303">
-        <title>myGermanExpert</title>
-      </bookmark>
-      <bookmark href="https://www.vlh.de/" id="304">
-        <title>Lohnsteuerhilfeverein</title>
-      </bookmark>
-      <bookmark href="https://www.settle-in-berlin.com/" id="305">
-        <title>Settle In Berlin</title>
-      </bookmark>
-      <bookmark href="https://allaboutberlin.com/" id="306">
-        <title>All About Berlin</title>
-      </bookmark>
-      <bookmark href="https://polished-olive-898.notion.site/Berl-n-6eccc45995b44035a99769f45b9384c4" id="307">
-        <title>Berlín</title>
-      </bookmark>
-      <bookmark href="https://www.buhl.de/steuer/#preis" id="404">
-        <title>WISO Steuer</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://www.stromnetz.berlin/en/" id="101">
-      <title>Stromnetz Berlin</title>
-    </bookmark>
-    <bookmark href="https://www.bwb.de/de/analysedaten-nach-postleitzahlen.php?PLZ=12555&amp;send=Suche+starten" id="102">
-      <title>Wasserbetriebe Analysedaten</title>
-    </bookmark>
-    <bookmark href="https://skili.berlin/curso-en-espanol" id="103">
-      <title>Motorbootführerschein</title>
-    </bookmark>
-    <folder id="367">
-      <title>Ehrenamtlich</title>
-      <bookmark href="https://www.interaxion-tk.de/" id="366">
-        <title>IntegraxionKöpenick</title>
-      </bookmark>
-      <bookmark href="https://sternenfischer.org/kieztandem/" id="104">
-        <title>Kieztandem</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://iptv.community/" id="369">
-      <title>IPTV Community</title>
-    </bookmark>
-    <bookmark href="https://www.vhs-berlin.de/" id="375">
-      <title>vhs berlin</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://learngerman.dw.com/de/fortgeschrittene/s-62079033" id="14">
-    <title>Fortgeschrittene</title>
-  </bookmark>
 </folder>
 <folder id="361">
   <title>Other Bookmarks</title>
+</folder>
+<folder id="424">
+  <title>Tools</title>
+  <bookmark href="https://claude.ai/new" id="432">
+    <title>Claude</title>
+  </bookmark>
+  <bookmark href="https://chat.deepseek.com/" id="433">
+    <title>DeepSeek - Into the Unknown</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/" id="434">
+    <title>ChatGPT</title>
+  </bookmark>
+</folder>
+<bookmark href="https://keep.google.com/" id="3">
+  <title>Keep</title>
+</bookmark>
+<bookmark href="https://learngerman.dw.com/de/fortgeschrittene/s-62079033" id="14">
+  <title>Fortgeschrittene</title>
+</bookmark>
+<folder id="2">
+  <title>Servicios</title>
+  <bookmark href="https://www.bancsabadell.com/cs/Satellite/SabAtl/BS-Online/1191332204053/es/" id="15">
+    <title>BS Online</title>
+  </bookmark>
+  <bookmark href="https://www.dkb.de/" id="16">
+    <title>DKB AG</title>
+  </bookmark>
+  <bookmark href="https://app.n26.com/login" id="17">
+    <title>N26</title>
+  </bookmark>
+  <bookmark href="https://www.elster.de/eportal/login/softpse" id="18">
+    <title>ELSTER</title>
+  </bookmark>
+  <bookmark href="https://www.tk.de/service/login/techniker/meine-tk-2000008" id="19">
+    <title>Die Techniker</title>
+  </bookmark>
+  <bookmark href="https://lamevasalut.gencat.cat/web/cps/login" id="20">
+    <title>La Meva Salut</title>
+  </bookmark>
+  <bookmark href="https://www2.personas.santander.com.ar/obp-webapp/angular/#!/login" id="21">
+    <title>Rio</title>
+  </bookmark>
+  <bookmark href="https://transferwise.com/login#/" id="22">
+    <title>Transferwise</title>
+  </bookmark>
+  <bookmark href="https://paysend.com/en-ar" id="23">
+    <title>Paysend</title>
+  </bookmark>
+  <bookmark href="https://www.airtm.com/#/" id="25">
+    <title>Airtm</title>
+  </bookmark>
+  <folder id="26">
+    <title>Utiles</title>
+  </folder>
+  <bookmark href="https://uphold.com/" id="27">
+    <title>Uphold</title>
+  </bookmark>
+  <bookmark href="https://www.winsim.de/" id="28">
+    <title>winSIM</title>
+  </bookmark>
+  <bookmark href="https://www.vodafone.de/meinvodafone/services/" id="29">
+    <title>Vodafone</title>
+  </bookmark>
+  <bookmark href="https://www.vodafone.de/hilfe/stoerung.html?icmp=pub:netzsassistent:1m" id="30">
+    <title>Vodafone Störung</title>
+  </bookmark>
+  <bookmark href="https://status.networkoverview.vodafone.de/" id="378">
+    <title>Vodafone Störungsfinder</title>
+  </bookmark>
+  <bookmark href="http://192.168.0.1/" id="105">
+    <title>Vodafone Router</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>Correo</title>
+  <bookmark href="https://accounts.google.com/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=https://mail.google.com/mail/&amp;ss=1&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2" id="31">
+    <title>Gmail</title>
+  </bookmark>
+  <bookmark href="https://mail.yahoo.com/d/folders/1?.intl=de&amp;.lang=de-DE&amp;.partner=none&amp;.src=fp" id="32">
+    <title>Yahoo!</title>
+  </bookmark>
+  <bookmark href="https://groups.google.com/forum/?hl=es&amp;fromgroups#!myforums" id="33">
+    <title>Google Groups</title>
+  </bookmark>
+  <bookmark href="https://www.notion.so/Good-Morning-e22bf1eabf9a4cdd9df60b24abbb2ece" id="34">
+    <title>Notion</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>Material</title>
+  <folder id="35">
+    <title>Facultad</title>
+    <bookmark href="http://siga.frba.utn.edu.ar/" id="108">
+      <title>SIGA</title>
+    </bookmark>
+    <bookmark href="http://www.sistemas.frba.utn.edu.ar/" id="109">
+      <title>DISI</title>
+    </bookmark>
+    <bookmark href="http://sites.google.com/site/paradigmasdeprogramacion/" id="110">
+      <title>PDP</title>
+    </bookmark>
+    <bookmark href="http://tacs-utn.com.ar/" id="111">
+      <title>TACS</title>
+    </bookmark>
+    <bookmark href="http://tadp-utn-frba.github.io/" id="112">
+      <title>TADP</title>
+    </bookmark>
+    <bookmark href="http://apit.wikidot.com/" id="113">
+      <title>APIT</title>
+    </bookmark>
+    <bookmark href="https://sites.google.com/site/utndesign/material/apuntes-teoricos" id="114">
+      <title>DISI</title>
+    </bookmark>
+    <bookmark href="https://dds-jv.github.io/" id="115">
+      <title>Diseño de Sistemas</title>
+    </bookmark>
+    <bookmark href="https://sites.google.com/site/programacionui/" id="116">
+      <title>PIUx</title>
+    </bookmark>
+    <bookmark href="https://www.frba.utn.edu.ar/" id="117">
+      <title>UTN.BA</title>
+    </bookmark>
+  </folder>
+  <folder id="36">
+    <title>Books</title>
+    <bookmark href="http://gen.lib.rus.ec/" id="118">
+      <title>Library Genesis</title>
+    </bookmark>
+    <bookmark href="https://github.com/EbookFoundation/free-programming-books" id="119">
+      <title>Free programming books</title>
+    </bookmark>
+    <bookmark href="https://drive.google.com/file/d/12rOxaLd2_uxpgoRAYVOgzucLz2MsyQiV/view" id="379">
+      <title>Audio libro Sistema Sounder Sleep</title>
+    </bookmark>
+    <bookmark href="https://annas-archive.org/" id="397">
+      <title>Anna’s Archive</title>
+    </bookmark>
+    <bookmark href="https://www.dataorienteddesign.com/dodbook/" id="415">
+      <title>Data-Oriented Design</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/joebew42/study-path" id="39">
+    <title>The SWDev Study Path</title>
+  </bookmark>
+  <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
+    <title>DataEng Study Path</title>
+  </bookmark>
+  <bookmark href="https://github.com/donnemartin/system-design-primer/" id="40">
+    <title>The System Design Primer</title>
+  </bookmark>
+  <folder id="43">
+    <title>Jobs</title>
+    <bookmark href="https://remotive.com/" id="138">
+      <title>Remotive</title>
+    </bookmark>
+    <bookmark href="https://otta.com/" id="139">
+      <title>Otta</title>
+    </bookmark>
+    <bookmark href="https://www.doorsopen.co/jobs/" id="140">
+      <title>Jobs | Doors Open</title>
+    </bookmark>
+    <bookmark href="https://dailyremote.com/" id="141">
+      <title>DailyRemote</title>
+    </bookmark>
+    <bookmark href="https://euremotejobs.com/" id="142">
+      <title>Remote Jobs Europe</title>
+    </bookmark>
+    <bookmark href="https://www.instahyre.com/" id="143">
+      <title>Instahyre</title>
+    </bookmark>
+    <bookmark href="https://www.doorsopen.co/jobs/?q=&amp;l=Berlin%2C+Germany" id="425">
+      <title>Doors Open (Music Jobs)</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.linkedin.com/blog/engineering" id="426">
+    <title>Engineering Blog</title>
+  </bookmark>
+  <bookmark href="https://netflixtechblog.com/" id="427">
+    <title>Netflix TechBlog</title>
+  </bookmark>
+  <bookmark href="https://datatalks.club/" id="428">
+    <title>DataTalks.Club</title>
+  </bookmark>
+</folder>
+<folder id="7">
+  <title>EO</title>
+  <bookmark href="https://www.escepticoobservador.com/" id="50">
+    <title>Escéptico Observador</title>
+  </bookmark>
+  <bookmark href="https://hootsuite.com/es/" id="51">
+    <title>Hootsuite</title>
+  </bookmark>
+  <bookmark href="http://www.danielabraham.net/tree/places/sokal/" id="52">
+    <title>Sokal</title>
+  </bookmark>
+  <bookmark href="https://publish.buffer.com/" id="53">
+    <title>Buffer Publish</title>
+  </bookmark>
+  <bookmark href="https://www.smartpassiveincome.com/the-content-pyramid/" id="54">
+    <title>The Content Pyramid</title>
+  </bookmark>
+  <bookmark href="https://photos.google.com/albums" id="55">
+    <title>Albums - Google Photos</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>Español</title>
+  <bookmark href="http://www.cde.com.ar/" id="56">
+    <title>CDE</title>
+  </bookmark>
+  <bookmark href="https://twitter.com/cdespanol" id="57">
+    <title>@prensacde</title>
+  </bookmark>
+  <bookmark href="https://www.promiedos.com.ar/league/primera-c/ffjb" id="408">
+    <title>Promiedos</title>
+  </bookmark>
+  <bookmark href="https://www.fastscore.com/argentina/torneo-regional-federal-amateur/standings" id="390">
+    <title>TRFA</title>
+  </bookmark>
+  <bookmark href="https://www.fupa.net/region/berlin" id="59">
+    <title>Berlin</title>
+  </bookmark>
+  <bookmark href="http://www.futbolcatalunya.com/" id="60">
+    <title>FutbolCatalunya</title>
+  </bookmark>
+  <bookmark href="http://xenen.com.ar/" id="61">
+    <title>Xenen</title>
+  </bookmark>
+  <bookmark href="https://www.universofutbol.com.ar/plantillas/archivos/noticias.php?div=4&amp;camp=1541" id="62">
+    <title>UniversoFutbol</title>
+  </bookmark>
+  <bookmark href="https://www.panenka.org/" id="63">
+    <title>Panenka</title>
+  </bookmark>
+  <bookmark href="https://11freunde.de/startseite" id="64">
+    <title>11FREUNDE</title>
+  </bookmark>
+  <bookmark href="https://www.diefalsche9.de/" id="380">
+    <title>Die falsche 9</title>
+  </bookmark>
+  <bookmark href="https://www.grenzenlos-eisern.de/" id="66">
+    <title>Grenznelos</title>
+  </bookmark>
+  <bookmark href="https://codigo55.blogspot.com/" id="396">
+    <title>Código 55</title>
+  </bookmark>
+  <bookmark href="https://leytonorientear.com/" id="398">
+    <title>O R I E N T E A R</title>
+  </bookmark>
+  <bookmark href="https://sporttotal.tv/teams/8c22f795-b8de-4ab7-8818-4c97d437ff36" id="403">
+    <title>Sporttotal.tv</title>
+  </bookmark>
+  <bookmark href="https://alangulotv.lat/" id="423">
+    <title>alangulotv.lat</title>
+  </bookmark>
+  <bookmark href="https://rbtv77.im/" id="422">
+    <title>RBTV77</title>
+  </bookmark>
+  <bookmark href="https://www.transferfeed.com/es" id="429">
+    <title>Transferfeed</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>Bolsa</title>
+  <bookmark href="https://login.morganstanleyclientserv.com/ux/" id="68">
+    <title>Morgan Stanley</title>
+  </bookmark>
+  <bookmark href="https://login.fidelity.com/ftgw/Fas/Fidelity/IspCust/Refresh/Init/df.chf.ra/" id="69">
+    <title>Fidelity</title>
+  </bookmark>
+  <bookmark href="https://pensionfriend.de/en" id="70">
+    <title>Pensionfriend</title>
+  </bookmark>
+  <bookmark href="https://www.investing.com/equities/germany" id="71">
+    <title>Germany Stock Market</title>
+  </bookmark>
+  <bookmark href="https://www.bullmarketbrokers.com/" id="72">
+    <title>BMB</title>
+  </bookmark>
+  <bookmark href="http://www.tucapital.es/" id="73">
+    <title>TuCapital.es</title>
+  </bookmark>
+  <bookmark href="https://www.franklintempleton.com/" id="75">
+    <title>Franklin Templeton</title>
+  </bookmark>
+  <bookmark href="https://etfdb.com/etfs/" id="76">
+    <title>ETF DB</title>
+  </bookmark>
+  <bookmark href="https://www.justetf.com/en/" id="77">
+    <title>justETF</title>
+  </bookmark>
+  <bookmark href="https://traderlion.com/?checkout_id=8103a8ad-7ad6-42b4-9ad9-9391a5a47003" id="383">
+    <title>Learn Trading From Experts | TraderLion</title>
+  </bookmark>
+  <bookmark href="https://trader.degiro.nl/login/es#/login" id="430">
+    <title>DEGIRO</title>
+  </bookmark>
+</folder>
+<folder id="10">
+  <title>Desarrollo</title>
+  <folder id="78">
+    <title>Interview</title>
+    <bookmark href="https://delacruz.dev/blog/entrevista-frontend" id="161">
+      <title>Practica antes de la entrevista</title>
+    </bookmark>
+    <bookmark href="https://mockend.com/" id="162">
+      <title>Mockend</title>
+    </bookmark>
+    <bookmark href="https://jsonplaceholder.typicode.com/" id="163">
+      <title>JSON Test API</title>
+    </bookmark>
+    <bookmark href="https://developers.themoviedb.org/3/getting-started/introduction" id="164">
+      <title>The Movie Database API</title>
+    </bookmark>
+    <bookmark href="https://pokeapi.co/" id="165">
+      <title>PokéAPI</title>
+    </bookmark>
+    <bookmark href="https://bytebytego.com/" id="166">
+      <title>Technical Interview Prep</title>
+    </bookmark>
+    <bookmark href="https://newsletter.systemdesign.one/" id="431">
+      <title>The System Design Newsletter</title>
+    </bookmark>
+  </folder>
+  <folder id="79">
+    <title>Architecture</title>
+    <bookmark href="https://adr.github.io/" id="167">
+      <title>Architectural Decision Records | adr.github.io</title>
+    </bookmark>
+    <bookmark href="https://c4model.com/" id="169">
+      <title>The C4 model for visualising architecture</title>
+    </bookmark>
+    <bookmark href="https://codesqueeze.com/the-7-software-ilities-you-need-to-know/" id="168">
+      <title>The 7 Software “-ilities”</title>
+    </bookmark>
+    <bookmark href="https://structurizr.com/" id="170">
+      <title>Structurizr</title>
+    </bookmark>
+    <bookmark href="https://microservices.io/" id="171">
+      <title>microservices.io</title>
+    </bookmark>
+  </folder>
+  <folder id="80">
+    <title>Smalltalk</title>
+    <bookmark href="http://www.slideshare.net/esug/slideshows" id="172">
+      <title>ESUG’s Presentations</title>
+    </bookmark>
+    <bookmark href="http://pharo-project.org/" id="173">
+      <title>Pharo</title>
+    </bookmark>
+    <bookmark href="http://www.fast.org.ar/" id="174">
+      <title>FAST</title>
+    </bookmark>
+    <bookmark href="http://groups.google.com.ar/group/clubSmalltalk?hl=es" id="175">
+      <title>clubSmalltalk</title>
+    </bookmark>
+    <bookmark href="http://sunit.sourceforge.net/index.html" id="176">
+      <title>SUnit</title>
+    </bookmark>
+    <bookmark href="http://www.seaside.st/" id="177">
+      <title>seaside.st</title>
+    </bookmark>
+    <bookmark href="http://stephane.ducasse.free.fr/FreeBooks.html" id="178">
+      <title>Stéphane Ducasse</title>
+    </bookmark>
+  </folder>
+  <folder id="82">
+    <title>Katas</title>
+    <bookmark href="https://exercism.io/" id="186">
+      <title>Exercism</title>
+    </bookmark>
+    <bookmark href="https://kata-log.rocks/" id="187">
+      <title>All Katas</title>
+    </bookmark>
+    <bookmark href="https://katalyst.codurance.com/" id="188">
+      <title>Katalyst</title>
+    </bookmark>
+    <bookmark href="https://developer.confluent.io/100-days-of-code/" id="190">
+      <title>100 Days Of Code with Apache Kafka®</title>
+    </bookmark>
+  </folder>
+  <folder id="83">
+    <title>JavaScript</title>
+    <bookmark href="https://github.com/getify/You-Dont-Know-JS" id="192">
+      <title>You-Dont-Know-JS</title>
+    </bookmark>
+    <bookmark href="https://github.com/getify/Functional-Light-JS" id="193">
+      <title>Functional-Light-JS</title>
+    </bookmark>
+    <bookmark href="https://eloquentjavascript.net/" id="194">
+      <title>Eloquent JavaScript</title>
+    </bookmark>
+    <bookmark href="http://www.json2ts.com/" id="195">
+      <title>JSON to TS</title>
+    </bookmark>
+    <bookmark href="https://www.typescriptlang.org/play" id="196">
+      <title>TS Playground</title>
+    </bookmark>
+    <bookmark href="https://codewithhugo.com/tags/jest/" id="197">
+      <title>Jest · Code with Hugo</title>
+    </bookmark>
+    <bookmark href="https://basarat.gitbook.io/typescript/getting-started" id="198">
+      <title>TypeScript DeepDive</title>
+    </bookmark>
+    <bookmark href="https://typescript-exercises.github.io/" id="213">
+      <title>TypeScript Exercises</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://devdocs.io/" id="84">
+    <title>Docs API</title>
+  </bookmark>
+  <folder id="6">
+    <title>Projects</title>
+    <folder id="44">
+      <title>ImmoScrap</title>
+      <bookmark href="https://www.scrapingbee.com/blog/introduction-to-web-scraping-with-java/" id="144">
+        <title>Introduction to Web Scraping With Java</title>
+      </bookmark>
+      <bookmark href="https://stackabuse.com/web-scraping-the-java-way/" id="145">
+        <title>Web Scraping the Java Way</title>
+      </bookmark>
+      <bookmark href="https://javascriptwebscrapingguy.com/jordan-scrapes-secretary-of-states-oregon/" id="146">
+        <title>Jordan Scrapes Secretary of States: Oregon - JavaScript Web Scraping Guy</title>
+      </bookmark>
+      <bookmark href="https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/" id="147">
+        <title>The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer — Smashing Magazine</title>
+      </bookmark>
+    </folder>
+    <folder id="45">
+      <title>Winery</title>
+      <bookmark href="https://www.drinksco.es/vino-rioja/remirez-de-ganuza-blanco-2018" id="148">
+        <title>Comprar Remírez de Ganuza Blanco 2018 | Precio y Opiniones en Drinks&amp;Co</title>
+      </bookmark>
+      <bookmark href="http://localhost:8080/swagger-ui.html#/vino-controller/createVinoUsingPOST" id="149">
+        <title>Swagger UI</title>
+      </bookmark>
+      <bookmark href="http://localhost:8080/h2-console/login.jsp" id="150">
+        <title>localhost</title>
+      </bookmark>
+      <bookmark href="https://jsoup.org/cookbook/extracting-data/selector-syntax" id="151">
+        <title>JSopu: Use selector-syntax to find elements: jsoup Java HTML parser</title>
+      </bookmark>
+      <bookmark href="https://jsoup.org/apidocs/org/jsoup/select/Selector.html" id="152">
+        <title>JSoup: Selector (jsoup Java HTML Parser 1.14.1 API)</title>
+      </bookmark>
+      <bookmark href="https://cloud0.hospedajeydominios.com:2222/" id="153">
+        <title>cloud0.hospedajeydominios.com | Login</title>
+      </bookmark>
+      <bookmark href="https://medium.com/thebit/top-10-project-based-tutorials-for-learning-javascript-54c80de4f48c" id="154">
+        <title>10 JS Project-Based Tutorials</title>
+      </bookmark>
+      <bookmark href="https://www.pacoperfumerias.com/calvin-klein-ck-be" id="155">
+        <title>Calvin Klein CK BE Eau de Toilette | Precio, Comprar - Paco Perfumerías</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://spring.io/guides#topical-guides" id="46">
+      <title>Spring Topical Guides</title>
+    </bookmark>
+    <bookmark href="https://spring.io/projects/spring-cloud-function#overview" id="47">
+      <title>Spring Cloud Function</title>
+    </bookmark>
+    <bookmark href="https://jamstack.org/generators/" id="156">
+      <title>Static Site Generators</title>
+    </bookmark>
+    <folder id="49">
+      <title>Kotlin</title>
+      <bookmark href="https://play.kotlinlang.org/hands-on/overview" id="158">
+        <title>Kotlin hands-on</title>
+      </bookmark>
+      <bookmark href="https://ktor.io/learn/" id="160">
+        <title>Learn | Ktor Framework</title>
+      </bookmark>
+    </folder>
+  </folder>
+</folder>
+<folder id="11">
+  <title>Idiomas</title>
+  <folder id="86">
+    <title>Aleman</title>
+    <folder id="199">
+      <title>Academias</title>
+      <bookmark href="https://berlin-berlin.com.ar/" id="315">
+        <title>Berlin-Berlin</title>
+      </bookmark>
+      <bookmark href="https://www.deutschakademie.de/berlin/alexanderplatz/es" id="316">
+        <title>DeutschAkademie</title>
+      </bookmark>
+      <bookmark href="https://kapitel-zwei.de/" id="317">
+        <title>Kapitel Zwei</title>
+      </bookmark>
+      <bookmark href="https://www.lalia-berlin.com/" id="318">
+        <title>LALIA BERLIN</title>
+      </bookmark>
+      <bookmark href="https://www.sprachenatelier-berlin.de/en" id="319">
+        <title>Sprachenatelier</title>
+      </bookmark>
+      <bookmark href="https://www.gls-german-courses.de/index.html" id="320">
+        <title>GLS</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.vhs-lernportal.de/wws/9.php#/wws/100002.php?redirect_after_login=1&amp;sid=21048488137542920560301870187780Saaafcc91" id="203">
+      <title>vhs-Lernportal</title>
+    </bookmark>
+    <bookmark href="https://learngerman.dw.com/es/grammar" id="200">
+      <title>Grammar</title>
+    </bookmark>
+    <bookmark href="https://learngerman.dw.com/de/fortgeschrittene/s-62079033" id="420">
+      <title>Fortgeschrittene</title>
+    </bookmark>
+    <bookmark href="https://www.deutschakademie.de/online-deutschkurs/english/deutschkurs" id="201">
+      <title>Online trainer</title>
+    </bookmark>
+    <bookmark href="https://mein-deutschbuch.de/startseite.html" id="365">
+      <title>mein-deutschbuch</title>
+    </bookmark>
+    <bookmark href="https://www.easygerman.org/" id="202">
+      <title>Easy German</title>
+    </bookmark>
+    <bookmark href="https://seedlang.com/reviews/home" id="204">
+      <title>Seedlang</title>
+    </bookmark>
+    <bookmark href="http://www.schubert-verlag.de/aufgaben/" id="205">
+      <title>Schubert</title>
+    </bookmark>
+    <bookmark href="http://www.grammatiktraining.de/" id="206">
+      <title>GrammatikTraining</title>
+    </bookmark>
+    <bookmark href="http://www.deutschseite.de/inhalt.html" id="207">
+      <title>Toms Deutschseite</title>
+    </bookmark>
+    <bookmark href="http://slowgerman.com/" id="209">
+      <title>Slow German</title>
+    </bookmark>
+    <bookmark href="http://www.vorleser.net/" id="210">
+      <title>vorleser.net</title>
+    </bookmark>
+    <bookmark href="https://www.deutsch-perfekt.com/deutsch-lesen/der-genitiv-drei-minuten" id="211">
+      <title>Der Genitiv in drei Minuten</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/German/comments/ldzj5d/goethe_zertifikat_b2_module_exams/" id="406">
+      <title>Goethe Zertifikat B2 Module Exams : r/German</title>
+    </bookmark>
+    <bookmark href="https://www.goethe.de/prj/zei/de/index.html" id="419">
+      <title>Zeitgeister - Das Kulturmagazin des Goethe-Instituts</title>
+    </bookmark>
+    <bookmark href="https://deutsch-vorbereitung.com/" id="421">
+      <title>Vorbereitung mit BO</title>
+    </bookmark>
+  </folder>
+  <folder id="88">
+    <title>Ruso</title>
+    <bookmark href="http://cooljugator.com/ru/" id="219">
+      <title>Cool Russian Verb Conjugator</title>
+    </bookmark>
+    <bookmark href="http://learnrussian.rt.com/" id="220">
+      <title>RT LearnRussian</title>
+    </bookmark>
+    <bookmark href="http://learnrussianstepbystep.com/aprender-ruso/" id="221">
+      <title>Aprender Ruso Paso a Paso</title>
+    </bookmark>
+    <bookmark href="http://www.rusogratis.com/gramatica-rusa.php" id="222">
+      <title>Gramatica Ruso</title>
+    </bookmark>
+    <bookmark href="http://www.aulafacil.com/cursos/l25522/idiomas/ruso/ruso/vocales" id="223">
+      <title>AulaFácil</title>
+    </bookmark>
+    <bookmark href="http://www.multitran.ru/c/m.exe?a=1&amp;SHL=2" id="224">
+      <title>словарь Мультитран</title>
+    </bookmark>
+    <bookmark href="http://www.diccionario.ru/cgi-bin/dic.cgi?l=es&amp;page=&amp;forum=&amp;cid=#.VsIoCvnhCUk" id="225">
+      <title>Diccionario.RU</title>
+    </bookmark>
+    <bookmark href="https://translit.ru/" id="226">
+      <title>Транслит по-русски</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://berlin-berlin.learn-cube.com/" id="89">
+    <title>LearnCube</title>
+  </bookmark>
+  <bookmark href="http://de.pons.eu/" id="91">
+    <title>PONS.de</title>
+  </bookmark>
+  <bookmark href="http://es.forvo.com/" id="92">
+    <title>Forvo</title>
+  </bookmark>
+  <bookmark href="https://verbix.com/languages/german" id="93">
+    <title>Verbix</title>
+  </bookmark>
+</folder>
+<folder id="12">
+  <title>Berlin</title>
+  <folder id="94">
+    <title>Wohnungen</title>
+    <bookmark href="https://www.immobilienscout24.de/" id="227">
+      <title>ImmoScout24</title>
+    </bookmark>
+    <bookmark href="https://www.immonet.de/" id="228">
+      <title>Immonet</title>
+    </bookmark>
+    <bookmark href="https://bewerbermappe.immowelt.de/bewerbermappe#/" id="229">
+      <title>Immowelt</title>
+    </bookmark>
+    <bookmark href="https://hypofriend.de/en" id="254">
+      <title>Hypofriend</title>
+    </bookmark>
+    <bookmark href="https://www.interhyp.de/" id="255">
+      <title>Interhyp</title>
+    </bookmark>
+    <bookmark href="https://www.finbird.digital/en/" id="252">
+      <title>Mortgage for expats</title>
+    </bookmark>
+    <bookmark href="https://www.grandcityproperty.de/wohnungssuche?city=St%C3%A4dte|Berlin&amp;price=&amp;rooms=&amp;size=&amp;type=M&amp;sortOrder=newest&amp;cityText=Berlin&amp;priceRadio=&amp;roomsRadio=&amp;sizeRadio=&amp;_token=Dve6hgq_yv31FCBwpnqhwsMnARe5ert2w1OqfFP8b-w" id="231">
+      <title>GCP - Immobilien</title>
+    </bookmark>
+    <bookmark href="https://www.wohnbau-gmbh.de/fuer-interessenten/wohnfinder" id="232">
+      <title>Wohnbau GmbH</title>
+    </bookmark>
+    <bookmark href="https://inberlinwohnen.de/wohnungsfinder/" id="233">
+      <title>inBerlinWohnen</title>
+    </bookmark>
+    <bookmark href="https://www.howoge.de/" id="234">
+      <title>HOWOGE</title>
+    </bookmark>
+    <bookmark href="https://www.degewo.de/" id="235">
+      <title>Degewo</title>
+    </bookmark>
+    <bookmark href="https://www.wbm.de/" id="236">
+      <title>WBM</title>
+    </bookmark>
+    <bookmark href="https://www.gesobau.de/" id="401">
+      <title>Hier wohnt Berlin | GESOBAU</title>
+    </bookmark>
+    <bookmark href="https://www.stadtundland.de/index.php" id="237">
+      <title>STADT UND LAND</title>
+    </bookmark>
+    <bookmark href="https://www.gewobag.de/" id="238">
+      <title>Gewobag</title>
+    </bookmark>
+    <bookmark href="https://rent.akelius.com/en/search/germany/apartment/berlin" id="239">
+      <title>Akeliu</title>
+    </bookmark>
+    <bookmark href="https://www.buwog-immobilientreuhand.de/de" id="240">
+      <title>BUWOG</title>
+    </bookmark>
+    <bookmark href="https://www.vonovia.de/de-de/wohnungen-in-berlin?immoType=wohnung&amp;rentType=miete&amp;page=1" id="241">
+      <title>Vonovia</title>
+    </bookmark>
+    <bookmark href="https://www.deutsche-wohnen.com/" id="242">
+      <title>Deutsche Wohnen</title>
+    </bookmark>
+    <bookmark href="https://www.berlinhaus.com/mietangebote/" id="243">
+      <title>BERLINHAUS</title>
+    </bookmark>
+    <bookmark href="https://www.immonexxt.com/de/mietangebote-wohnen" id="245">
+      <title>Immonexxt</title>
+    </bookmark>
+    <bookmark href="https://www.strategis.online/ff_objekte/int_objekte.php?LKAUFART=Mieter&amp;language=1031" id="246">
+      <title>STRATEGIS</title>
+    </bookmark>
+    <bookmark href="http://www.paragonberlin.com/mietangebote/" id="247">
+      <title>Paragon Apartments</title>
+    </bookmark>
+    <bookmark href="https://www.berlin-neubau.com/" id="248">
+      <title>Grossmann &amp; Berger</title>
+    </bookmark>
+    <bookmark href="https://www.spotahome.com/" id="249">
+      <title>Spotahome</title>
+    </bookmark>
+    <bookmark href="https://www.livinginberlin.de/angebote/mieten" id="250">
+      <title>⁣Living in Berlin</title>
+    </bookmark>
+    <bookmark href="https://hihc.de/immobilien-ergebnisse?script=immosearchfilter&amp;objektart=wohnung&amp;marktart=miete_pacht&amp;ort=Berlin" id="251">
+      <title>Immobilienmakler HIHC</title>
+    </bookmark>
+    <bookmark href="https://www.buena.com/en/how-it-works" id="253">
+      <title>Buena</title>
+    </bookmark>
+    <folder id="244">
+      <title>Zeitliche</title>
+      <bookmark href="https://wunderflats.com/en" id="321">
+        <title>Wunderflats</title>
+      </bookmark>
+      <bookmark href="https://www.habyt.com/" id="322">
+        <title>Habyt</title>
+      </bookmark>
+      <bookmark href="https://www.coming-home.com/" id="323">
+        <title>Coming Home</title>
+      </bookmark>
+      <bookmark href="https://visionapartments.com/en/" id="324">
+        <title>VISIONAPARTMENTS</title>
+      </bookmark>
+      <bookmark href="https://www.thehomelike.com/" id="325">
+        <title>HomeLike</title>
+      </bookmark>
+      <bookmark href="https://www.caseaberlino.com/" id="326">
+        <title>CASE a BERLINO</title>
+      </bookmark>
+      <bookmark href="https://www.belong-living.com/" id="327">
+        <title>Belong Living</title>
+      </bookmark>
+      <bookmark href="https://join.quarters.com/s/" id="328">
+        <title>Quarters</title>
+      </bookmark>
+      <bookmark href="https://join.medici-living.com/s/" id="329">
+        <title>Medici Living</title>
+      </bookmark>
+      <bookmark href="https://www.wg-gesucht.de/en/" id="330">
+        <title>WG-Gesucht.de</title>
+      </bookmark>
+      <bookmark href="https://housinganywhere.com/" id="331">
+        <title>HousingAnywhere</title>
+      </bookmark>
+      <bookmark href="https://www.66monkeys.de/en/locations/" id="332">
+        <title>66 Monkeys</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="95">
+    <title>Sehenswürdigkeiten</title>
+    <folder id="257">
+      <title>Museum</title>
+      <bookmark href="https://www.energie-museum.de/willkommen-beim-emb" id="333">
+        <title>Energie-Museum Berlin</title>
+      </bookmark>
+      <bookmark href="https://www.mhm-gatow.de/de#das-museum" id="334">
+        <title>Start | MHM Berlin-Gatow</title>
+      </bookmark>
+      <bookmark href="https://www.alliiertenmuseum.de/en/about-us/" id="335">
+        <title>AlliiertenMuseum</title>
+      </bookmark>
+      <bookmark href="https://www.hdg.de/traenenpalast/" id="336">
+        <title>Tränenpalast</title>
+      </bookmark>
+      <bookmark href="https://www.stasimuseum.de/en/enbesuch.htm" id="337">
+        <title>Stasimuseum Berlin in der Zentrale des MfS</title>
+      </bookmark>
+      <bookmark href="https://www.bauhaus.de/en/besuch/" id="338">
+        <title>Bauhaus-Archiv | Museum für Gestaltung, Berlin</title>
+      </bookmark>
+      <bookmark href="https://www.museum-karlshorst.de/" id="339">
+        <title>Museum Berlin-Karlshorst</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.atlasobscura.com/things-to-do/berlin-germany" id="258">
+      <title>Unusual Attractions in Berlin</title>
+    </bookmark>
+    <bookmark href="https://www.berliner-unterwelten.de/es/index.html" id="259">
+      <title>Berliner Unterwelten</title>
+    </bookmark>
+    <bookmark href="https://www.abandonedberlin.com/" id="260">
+      <title>Abandoned Berlin</title>
+    </bookmark>
+    <bookmark href="https://www.museumsportal-berlin.de/es/museos/?free_entrance=1" id="261">
+      <title>Museumsportal Berlin</title>
+    </bookmark>
+    <bookmark href="https://www.berlin.de/tourismus/insidertipps/3983429-2339440-fuehrungen-auf-den-gasometer-in-schoeneb.html" id="262">
+      <title>Gasometer in Schöneberg</title>
+    </bookmark>
+    <bookmark href="https://www.grandtourofmodernism.com/" id="263">
+      <title>Grand Tour of Modernism</title>
+    </bookmark>
+    <bookmark href="https://digitalcosmonaut.com/" id="264">
+      <title>Digital Cosmonaut</title>
+    </bookmark>
+    <bookmark href="http://fussballrouteberlin.de/" id="265">
+      <title>FUSSBALL ROUTE BERLIN</title>
+    </bookmark>
+  </folder>
+  <folder id="96">
+    <title>Essen</title>
+    <folder id="266">
+      <title>Lateinische Produkte</title>
+      <bookmark href="https://www.mate-tee.de/" id="340">
+        <title>Mate-Tee.de</title>
+      </bookmark>
+      <bookmark href="https://www.yerbamate.ch/de/" id="341">
+        <title>YerbaMate.ch</title>
+      </bookmark>
+      <bookmark href="https://www.uruguayeces.com/es/" id="342">
+        <title>Uruguayeces</title>
+      </bookmark>
+      <bookmark href="https://www.andupez.de/" id="343">
+        <title>Andupez</title>
+      </bookmark>
+      <bookmark href="https://www.loechoenfalta.com/" id="344">
+        <title>Lo Echo en Falta</title>
+      </bookmark>
+      <bookmark href="https://www.mitte-meer.de/" id="345">
+        <title>Mitte Meer</title>
+      </bookmark>
+      <bookmark href="https://latinopoint.de/" id="346">
+        <title>Latino Point</title>
+      </bookmark>
+      <bookmark href="https://don-gaucho.com/" id="347">
+        <title>Don Gaucho</title>
+      </bookmark>
+      <bookmark href="https://www.argentinaencasa.com/" id="348">
+        <title>Argentina en casa</title>
+      </bookmark>
+      <bookmark href="https://argentinameatcompany.com/producto/yerbamate/" id="349">
+        <title>Argentina Meat Company</title>
+      </bookmark>
+      <bookmark href="https://www.deliargentina.com/" id="350">
+        <title>Delicatessen Argentina</title>
+      </bookmark>
+      <bookmark href="https://www.derkleinemarkt.eu/en_GB" id="399">
+        <title>DerKleineMarkt</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://berlinfoodstories.com/" id="267">
+      <title>Berlin Food Stories</title>
+    </bookmark>
+    <bookmark href="https://trueitalian.top/" id="268">
+      <title>True Italian</title>
+    </bookmark>
+    <bookmark href="https://www.al-andalus-berlin.de/" id="269">
+      <title>al-andalus-berlins</title>
+    </bookmark>
+    <bookmark href="https://www.vinscentwines.de/en/home-ingles/" id="270">
+      <title>Vinscent Wines</title>
+    </bookmark>
+    <bookmark href="https://www.chinchin-berlin.de/privatverkostung" id="382">
+      <title>Chin Chin Weinverkostung</title>
+    </bookmark>
+  </folder>
+  <folder id="97">
+    <title>Ärtze</title>
+    <bookmark href="https://www.jameda.de/" id="271">
+      <title>jameda</title>
+    </bookmark>
+    <bookmark href="https://www.doctolib.de/" id="272">
+      <title>Doctolib</title>
+    </bookmark>
+    <bookmark href="https://clickdoc.de/cd-de/" id="273">
+      <title>CLICKDOC</title>
+    </bookmark>
+    <bookmark href="https://patient.samedi.de/" id="274">
+      <title>samedi</title>
+    </bookmark>
+    <bookmark href="https://de.doctena.de/" id="275">
+      <title>Doctena</title>
+    </bookmark>
+    <bookmark href="https://www.tk-aerztefuehrer.de/TK/Suche_SN/index.js?a=FS1" id="276">
+      <title>TK-Ärzteführer</title>
+    </bookmark>
+    <bookmark href="https://www.116117.de/de/1252.php" id="277">
+      <title>116117.de</title>
+    </bookmark>
+    <bookmark href="https://www.envivas.de/en/products-and-services" id="278">
+      <title>Envivas (TK Travel Insurance)</title>
+    </bookmark>
+    <bookmark href="https://www.kvberlin.de/" id="279">
+      <title>KVBerlin</title>
+    </bookmark>
+    <folder id="280">
+      <title>Augen</title>
+      <bookmark href="https://policum.berlin/" id="351">
+        <title>Ihre Gesundheitszentren in Berlin - Policum Berlin</title>
+      </bookmark>
+      <bookmark href="https://www.augen-arzt-berlin.de/online-terminvereinbarung/" id="352">
+        <title>Augenärzte am Platz der Luftbrücke - Terminvereinbarung</title>
+      </bookmark>
+      <bookmark href="https://www.augenarztpraxis-friedrichshagen.de/" id="353">
+        <title>Startseite - augenarztpraxis-friedrichshagen Jimdo-Page!</title>
+      </bookmark>
+      <bookmark href="https://augenarzt-tiergarten.de/home/" id="354">
+        <title>Augenarztpraxis am Tiergarten in Berlin - Dott.ssa Maceda Gurabardhi</title>
+      </bookmark>
+      <bookmark href="https://www.opticum-augen.de/" id="355">
+        <title>Augenarzt Berlin - Opticum Augentagesklinik Neukölln</title>
+      </bookmark>
+      <bookmark href="https://www.aceandtate.com/us/stores/germany/berlin" id="356">
+        <title>Opticians in Berlin | Book a Free Eye Test | Ace &amp; Tate</title>
+      </bookmark>
+      <bookmark href="https://shopviu.com/en_int/viu-stores/" id="357">
+        <title>VIU EYEWEAR® Optician &amp; Eyewear Shop with free Eye exam</title>
+      </bookmark>
+    </folder>
+    <folder id="281">
+      <title>Diabetologie</title>
+      <bookmark href="https://www.dr-scherwinski.de/termin-vereinbaren" id="358">
+        <title>Praxis Dr. Martin Scherwinski</title>
+      </bookmark>
+      <bookmark href="https://diabetespraxis-prenzlauerberg.de/" id="359">
+        <title>diabetespraxis prenzlauer berg</title>
+      </bookmark>
+      <bookmark href="https://www.dr-scherwinski.de/termin-vereinbaren" id="360">
+        <title>Praxis Dr. Martin Scherwinski</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://www.sporthopaedicum.de/index.php?id=55" id="282">
+      <title>sporthopaedicum</title>
+    </bookmark>
+    <bookmark href="https://www.bromand-sancho-loras.de/" id="283">
+      <title>Sancho Loras</title>
+    </bookmark>
+    <bookmark href="https://lopezduran.de/" id="284">
+      <title>Nutricionista Lopez Duran</title>
+    </bookmark>
+    <bookmark href="https://www.doctolib.de/zahnmedizin/berlin/norma-de-wuensche" id="285">
+      <title>Norma de Wünsche, Zahnarzt in Berlin</title>
+    </bookmark>
+    <bookmark href="https://www.bghw.de/weiterbildung-services/durchgangsarzt-finden" id="286">
+      <title>Accident Doctor</title>
+    </bookmark>
+  </folder>
+  <folder id="98">
+    <title>Media</title>
+    <bookmark href="https://www.welt.de/" id="287">
+      <title>WELT</title>
+    </bookmark>
+    <bookmark href="https://www.dw.com/de/themen/s-9077" id="288">
+      <title>DW</title>
+    </bookmark>
+    <bookmark href="https://www.exberliner.com/" id="292">
+      <title>EXBERLINER</title>
+    </bookmark>
+    <bookmark href="https://www.berliner-zeitung.de/" id="293">
+      <title>Berliner Zeitung</title>
+    </bookmark>
+    <bookmark href="https://www.bz-berlin.de/" id="294">
+      <title>B.Z. Berlin</title>
+    </bookmark>
+    <bookmark href="https://www.ladoberlin.com/" id="295">
+      <title>LADO|B|ERLIN</title>
+    </bookmark>
+    <bookmark href="https://www.berliner-woche.de/" id="296">
+      <title>Berliner Woche</title>
+    </bookmark>
+    <bookmark href="https://www.tip-berlin.de/" id="297">
+      <title>tipBerlin</title>
+    </bookmark>
+    <bookmark href="https://www.rbb24.de/" id="298">
+      <title>rbb24</title>
+    </bookmark>
+    <bookmark href="https://www.campact.de/" id="300">
+      <title>Campact</title>
+    </bookmark>
+    <bookmark href="https://www.compact-online.de/" id="301">
+      <title>COMPACT-Magazin</title>
+    </bookmark>
+    <bookmark href="https://www.zeit.de/index" id="384">
+      <title>ZEIT ONLINE</title>
+    </bookmark>
+    <bookmark href="https://taz.de/" id="389">
+      <title>taz.de</title>
+    </bookmark>
+    <bookmark href="https://www.radioeins.de/livestream/" id="405">
+      <title>radioeins</title>
+    </bookmark>
+  </folder>
+  <folder id="99">
+    <title>Beratung</title>
+    <bookmark href="https://www.sympat.me/" id="302">
+      <title>SymPat</title>
+    </bookmark>
+    <bookmark href="https://blog.mygermanexpert.com/" id="303">
+      <title>myGermanExpert</title>
+    </bookmark>
+    <bookmark href="https://www.vlh.de/" id="304">
+      <title>Lohnsteuerhilfeverein</title>
+    </bookmark>
+    <bookmark href="https://www.settle-in-berlin.com/" id="305">
+      <title>Settle In Berlin</title>
+    </bookmark>
+    <bookmark href="https://allaboutberlin.com/" id="306">
+      <title>All About Berlin</title>
+    </bookmark>
+    <bookmark href="https://polished-olive-898.notion.site/Berl-n-6eccc45995b44035a99769f45b9384c4" id="307">
+      <title>Berlín</title>
+    </bookmark>
+    <bookmark href="https://www.buhl.de/steuer/#preis" id="404">
+      <title>WISO Steuer</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.stromnetz.berlin/en/" id="101">
+    <title>Stromnetz Berlin</title>
+  </bookmark>
+  <bookmark href="https://www.bwb.de/de/analysedaten-nach-postleitzahlen.php?PLZ=12555&amp;send=Suche+starten" id="102">
+    <title>Wasserbetriebe Analysedaten</title>
+  </bookmark>
+  <bookmark href="https://skili.berlin/curso-en-espanol" id="103">
+    <title>Motorbootführerschein</title>
+  </bookmark>
+  <folder id="367">
+    <title>Ehrenamtlich</title>
+    <bookmark href="https://www.interaxion-tk.de/" id="366">
+      <title>IntegraxionKöpenick</title>
+    </bookmark>
+    <bookmark href="https://sternenfischer.org/kieztandem/" id="104">
+      <title>Kieztandem</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://iptv.community/" id="369">
+    <title>IPTV Community</title>
+  </bookmark>
+  <bookmark href="https://www.vhs-berlin.de/" id="375">
+    <title>vhs berlin</title>
+  </bookmark>
 </folder>
 </xbel>
