@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :434: for Floccus bookmark sync browser extension -->
+<!--- highestId :435: for Floccus bookmark sync browser extension -->
 
 <folder id="424">
   <title>Tools</title>
@@ -996,4 +996,7 @@
     <title>vhs berlin</title>
   </bookmark>
 </folder>
+<bookmark href="https://coffitivity.com/library/collection/free" id="435">
+  <title>Coffitivity</title>
+</bookmark>
 </xbel>
