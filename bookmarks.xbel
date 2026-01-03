@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :435: for Floccus bookmark sync browser extension -->
+<!--- highestId :454: for Floccus bookmark sync browser extension -->
 
 <folder id="424">
   <title>Tools</title>
@@ -133,8 +133,8 @@
     <bookmark href="https://annas-archive.org/" id="397">
       <title>Anna’s Archive</title>
     </bookmark>
-    <bookmark href="https://www.dataorienteddesign.com/dodbook/" id="415">
-      <title>Data-Oriented Design</title>
+    <bookmark href="https://ebookfoundation.github.io/free-programming-books-search/" id="436">
+      <title>Freely available programming books</title>
     </bookmark>
   </folder>
   <bookmark href="https://github.com/joebew42/study-path" id="39">
@@ -178,6 +178,33 @@
   </bookmark>
   <bookmark href="https://datatalks.club/" id="428">
     <title>DataTalks.Club</title>
+  </bookmark>
+  <folder id="437">
+    <title>Movies</title>
+    <bookmark href="https://www.arte.tv/de/" id="445">
+      <title>ARTE Mediathek</title>
+    </bookmark>
+    <bookmark href="https://www.ardmediathek.de/" id="446">
+      <title>ARD Mediathek</title>
+    </bookmark>
+    <bookmark href="https://www.zdf.de/" id="447">
+      <title>ZDF Streaming-Portal</title>
+    </bookmark>
+    <bookmark href="https://myflixer.com/" id="448">
+      <title>MyFlixer</title>
+    </bookmark>
+    <bookmark href="https://www.bbc.co.uk/iplayer" id="449">
+      <title>BBC iPlayer</title>
+    </bookmark>
+    <bookmark href="https://moviesjoy.is/" id="450">
+      <title>MoviesJoy</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/manuzhang/awesome-streaming" id="438">
+    <title>Awesome Streaming</title>
+  </bookmark>
+  <bookmark href="https://www.dataorienteddesign.com/dodbook/" id="415">
+    <title>Data-Oriented Design</title>
   </bookmark>
 </folder>
 <folder id="7">
@@ -248,15 +275,30 @@
   <bookmark href="https://sporttotal.tv/teams/8c22f795-b8de-4ab7-8818-4c97d437ff36" id="403">
     <title>Sporttotal.tv</title>
   </bookmark>
-  <bookmark href="https://alangulotv.lat/" id="423">
-    <title>alangulotv.lat</title>
-  </bookmark>
-  <bookmark href="https://rbtv77.im/" id="422">
-    <title>RBTV77</title>
-  </bookmark>
   <bookmark href="https://www.transferfeed.com/es" id="429">
     <title>Transferfeed</title>
   </bookmark>
+  <bookmark href="https://ascensofederal.xyz/" id="439">
+    <title>Ascenso Federal</title>
+  </bookmark>
+  <bookmark href="https://www.textilvergehen.de/" id="440">
+    <title>Textilvergehen</title>
+  </bookmark>
+  <folder id="441">
+    <title>Stream</title>
+    <bookmark href="https://ostsport.tv/" id="451">
+      <title>OSTSPORT.TV</title>
+    </bookmark>
+    <bookmark href="https://rbtv77.im/" id="422">
+      <title>RBTV77</title>
+    </bookmark>
+    <bookmark href="https://alangulotv.lat/" id="423">
+      <title>alangulotv.lat</title>
+    </bookmark>
+    <bookmark href="https://livetv.sx/es/" id="452">
+      <title>LiveTV.sx</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="9">
   <title>Bolsa</title>
@@ -288,7 +330,7 @@
     <title>justETF</title>
   </bookmark>
   <bookmark href="https://traderlion.com/?checkout_id=8103a8ad-7ad6-42b4-9ad9-9391a5a47003" id="383">
-    <title>Learn Trading From Experts | TraderLion</title>
+    <title>Learn Trading From Experts</title>
   </bookmark>
   <bookmark href="https://trader.degiro.nl/login/es#/login" id="430">
     <title>DEGIRO</title>
@@ -469,6 +511,15 @@
         <title>Learn | Ktor Framework</title>
       </bookmark>
     </folder>
+  </folder>
+  <folder id="442">
+    <title>APIs</title>
+    <bookmark href="https://developers.google.com/blogger/docs/3.0/using" id="453">
+      <title>Blogger API: Using the API  |  Google for Developers</title>
+    </bookmark>
+    <bookmark href="https://github.com/topics/dexcom-api" id="454">
+      <title>dexcom-api</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="11">
@@ -901,6 +952,9 @@
     <bookmark href="https://www.bghw.de/weiterbildung-services/durchgangsarzt-finden" id="286">
       <title>Accident Doctor</title>
     </bookmark>
+    <bookmark href="https://www.zahnarzt-rudow.de/dr-joachim-sitte" id="443">
+      <title>Zahnarztpraxis Berlin Rudow</title>
+    </bookmark>
   </folder>
   <folder id="98">
     <title>Media</title>
@@ -987,6 +1041,9 @@
     </bookmark>
     <bookmark href="https://sternenfischer.org/kieztandem/" id="104">
       <title>Kieztandem</title>
+    </bookmark>
+    <bookmark href="https://www.dammi-kiez.de/" id="444">
+      <title>Dammi-Kiez Nachbarschaftsinitiative</title>
     </bookmark>
   </folder>
   <bookmark href="https://iptv.community/" id="369">
