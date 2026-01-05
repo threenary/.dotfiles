@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :454: for Floccus bookmark sync browser extension -->
+<!--- highestId :456: for Floccus bookmark sync browser extension -->
 
 <folder id="424">
   <title>Tools</title>
@@ -1050,7 +1050,10 @@
     <title>vhs berlin</title>
   </bookmark>
 </folder>
-<bookmark href="https://coffitivity.com/library/collection/free" id="435">
-  <title>Coffitivity</title>
+<bookmark href="https://famelack.com/all-channels" id="455">
+  <title>Garden TV</title>
+</bookmark>
+<bookmark href="https://radio.garden/visit/claromeco/lY8fnsRm" id="456">
+  <title>Radio Garden</title>
 </bookmark>
 </xbel>
