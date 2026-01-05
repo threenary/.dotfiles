@@ -3,18 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :456: for Floccus bookmark sync browser extension -->
 
-<folder id="424">
-  <title>Tools</title>
-  <bookmark href="https://claude.ai/new" id="432">
-    <title>Claude</title>
-  </bookmark>
-  <bookmark href="https://chat.deepseek.com/" id="433">
-    <title>DeepSeek - Into the Unknown</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/" id="434">
-    <title>ChatGPT</title>
-  </bookmark>
-</folder>
 <folder id="2">
   <title>Servicios</title>
   <bookmark href="https://www.bancsabadell.com/cs/Satellite/SabAtl/BS-Online/1191332204053/es/" id="15">
