@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :456: for Floccus bookmark sync browser extension -->
+<!--- highestId :461: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -194,6 +194,9 @@
   <bookmark href="https://www.dataorienteddesign.com/dodbook/" id="415">
     <title>Data-Oriented Design</title>
   </bookmark>
+  <bookmark href="https://techworkersberlin.com/" id="457">
+    <title>Berlin Tech Workers Coalition</title>
+  </bookmark>
 </folder>
 <folder id="7">
   <title>EO</title>
@@ -316,6 +319,9 @@
   </bookmark>
   <bookmark href="https://trader.degiro.nl/login/es#/login" id="430">
     <title>DEGIRO</title>
+  </bookmark>
+  <bookmark href="https://my.fansdeltrading.com/home" id="458">
+    <title>Fans del Trading</title>
   </bookmark>
 </folder>
 <folder id="10">
@@ -982,6 +988,9 @@
     <bookmark href="https://www.radioeins.de/livestream/" id="405">
       <title>radioeins</title>
     </bookmark>
+    <bookmark href="https://www.deutschlandfunkkultur.de/" id="459">
+      <title>Deutschlandfunk Kultur</title>
+    </bookmark>
   </folder>
   <folder id="99">
     <title>Beratung</title>
@@ -1040,5 +1049,11 @@
 </bookmark>
 <bookmark href="https://radio.garden/visit/claromeco/lY8fnsRm" id="456">
   <title>Radio Garden</title>
+</bookmark>
+<bookmark href="https://radio.garden/" id="460">
+  <title>Radio Garden</title>
+</bookmark>
+<bookmark href="https://o16g.com/manifesto/" id="461">
+  <title>Outcome Engineering</title>
 </bookmark>
 </xbel>
