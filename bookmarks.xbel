@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :461: for Floccus bookmark sync browser extension -->
+<!--- highestId :462: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -55,6 +55,9 @@
   </bookmark>
   <bookmark href="http://192.168.0.1/" id="105">
     <title>Vodafone Router</title>
+  </bookmark>
+  <bookmark href="https://ara-app.eu/home" id="462">
+    <title>araApp</title>
   </bookmark>
 </folder>
 <folder id="4">
