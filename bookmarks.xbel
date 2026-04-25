@@ -125,18 +125,6 @@
       <title>Freely available programming books</title>
     </bookmark>
   </folder>
-  <bookmark href="https://github.com/joebew42/study-path" id="39">
-    <title>The SWDev Study Path</title>
-  </bookmark>
-  <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
-    <title>DataEng Study Path</title>
-  </bookmark>
-  <bookmark href="https://github.com/donnemartin/system-design-primer/" id="40">
-    <title>The System Design Primer</title>
-  </bookmark>
-  <bookmark href="https://github.com/manuzhang/awesome-streaming" id="438">
-    <title>Awesome Streaming</title>
-  </bookmark>
   <folder id="43">
     <title>Jobs</title>
     <bookmark href="https://remotive.com/" id="138">
@@ -161,15 +149,6 @@
       <title>Doors Open (Music Jobs)</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.linkedin.com/blog/engineering" id="426">
-    <title>Engineering Blog</title>
-  </bookmark>
-  <bookmark href="https://netflixtechblog.com/" id="427">
-    <title>Netflix TechBlog</title>
-  </bookmark>
-  <bookmark href="https://datatalks.club/" id="428">
-    <title>DataTalks.Club</title>
-  </bookmark>
   <folder id="437">
     <title>Movies</title>
     <bookmark href="https://www.arte.tv/de/" id="445">
@@ -191,6 +170,27 @@
       <title>MoviesJoy</title>
     </bookmark>
   </folder>
+  <bookmark href="https://github.com/joebew42/study-path" id="39">
+    <title>The SWDev Study Path</title>
+  </bookmark>
+  <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
+    <title>DataEng Study Path</title>
+  </bookmark>
+  <bookmark href="https://github.com/donnemartin/system-design-primer/" id="40">
+    <title>The System Design Primer</title>
+  </bookmark>
+  <bookmark href="https://github.com/manuzhang/awesome-streaming" id="438">
+    <title>Awesome Streaming</title>
+  </bookmark>
+  <bookmark href="https://www.linkedin.com/blog/engineering" id="426">
+    <title>Engineering Blog</title>
+  </bookmark>
+  <bookmark href="https://netflixtechblog.com/" id="427">
+    <title>Netflix TechBlog</title>
+  </bookmark>
+  <bookmark href="https://datatalks.club/" id="428">
+    <title>DataTalks.Club</title>
+  </bookmark>
   <bookmark href="https://www.dataorienteddesign.com/dodbook/" id="415">
     <title>Data-Oriented Design</title>
   </bookmark>
