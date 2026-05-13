@@ -176,9 +176,6 @@
   <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
     <title>DataEng Study Path</title>
   </bookmark>
-  <bookmark href="https://github.com/donnemartin/system-design-primer/" id="40">
-    <title>The System Design Primer</title>
-  </bookmark>
   <bookmark href="https://github.com/manuzhang/awesome-streaming" id="438">
     <title>Awesome Streaming</title>
   </bookmark>
@@ -336,6 +333,9 @@
     </bookmark>
     <bookmark href="https://newsletter.systemdesign.one/" id="431">
       <title>The System Design Newsletter</title>
+    </bookmark>
+    <bookmark href="https://github.com/donnemartin/system-design-primer/" id="40">
+      <title>The System Design Primer</title>
     </bookmark>
   </folder>
   <folder id="79">
