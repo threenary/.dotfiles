@@ -170,9 +170,6 @@
       <title>MoviesJoy</title>
     </bookmark>
   </folder>
-  <bookmark href="https://github.com/joebew42/study-path" id="39">
-    <title>The SWDev Study Path</title>
-  </bookmark>
   <bookmark href="https://github.com/datastacktv/data-engineer-roadmap" id="392">
     <title>DataEng Study Path</title>
   </bookmark>
@@ -193,6 +190,9 @@
   </bookmark>
   <bookmark href="https://techworkersberlin.com/" id="457">
     <title>Berlin Tech Workers Coalition</title>
+  </bookmark>
+  <bookmark href="https://github.com/joebew42/study-path" id="39">
+    <title>The SWDev Study Path</title>
   </bookmark>
 </folder>
 <folder id="7">
