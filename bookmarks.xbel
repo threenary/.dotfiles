@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :469: for Floccus bookmark sync browser extension -->
+<!--- highestId :472: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -193,9 +193,6 @@
   </bookmark>
   <bookmark href="https://github.com/joebew42/study-path" id="39">
     <title>The SWDev Study Path</title>
-  </bookmark>
-  <bookmark href="https://mostly-adequate.gitbook.io/mostly-adequate-guide" id="469">
-    <title>README | mostly-adequate-guide</title>
   </bookmark>
 </folder>
 <folder id="7">
@@ -512,6 +509,18 @@
       <title>The Movie DB</title>
     </bookmark>
   </folder>
+  <bookmark href="https://mostly-adequate.gitbook.io/mostly-adequate-guide" id="469">
+    <title>Mostly Adquate Guide To Functional Programming</title>
+  </bookmark>
+  <bookmark href="https://ericnormand.me/" id="470">
+    <title>Eric Normand - Functional Programming and Clojure</title>
+  </bookmark>
+  <bookmark href="https://www.braveclojure.com/" id="471">
+    <title>Learn to Program the World&apos;s Most Bodacious Language with Clojure for the Brave and True</title>
+  </bookmark>
+  <bookmark href="https://practical.li/" id="472">
+    <title>Practicalli Software Engineering Guides</title>
+  </bookmark>
 </folder>
 <folder id="11">
   <title>Idiomas</title>
