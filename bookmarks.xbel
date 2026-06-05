@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :476: for Floccus bookmark sync browser extension -->
+<!--- highestId :477: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -278,6 +278,9 @@
       <title>LiveTV.sx</title>
     </bookmark>
   </folder>
+  <bookmark href="https://shopshirtplugs.com/" id="477">
+    <title>The Shirt Plugs</title>
+  </bookmark>
 </folder>
 <folder id="9">
   <title>Bolsa</title>
