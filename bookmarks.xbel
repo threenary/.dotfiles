@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :477: for Floccus bookmark sync browser extension -->
+<!--- highestId :478: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -276,6 +276,9 @@
     </bookmark>
     <bookmark href="https://livetv.sx/es/" id="452">
       <title>LiveTV.sx</title>
+    </bookmark>
+    <bookmark href="https://www.evorsorge-firmenservices.de/portal/startseite.cvw?rnd=9101&amp;OWASP_CSRFTOKEN=TVPL-L1G1-SIIX-AT27-TCDM-CHIE-Z0ZO-OZS1" id="478">
+      <title>afm assekuranz-finanz-makler GmbH - HOME</title>
     </bookmark>
   </folder>
   <bookmark href="https://shopshirtplugs.com/" id="477">
