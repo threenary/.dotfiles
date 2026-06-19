@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :479: for Floccus bookmark sync browser extension -->
+<!--- highestId :480: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -58,6 +58,9 @@
   </bookmark>
   <bookmark href="https://ara-app.eu/home" id="462">
     <title>araApp</title>
+  </bookmark>
+  <bookmark href="https://www.eurotoptech.com/" id="480">
+    <title>Tech Jobs Europe (8,000+) &amp; Salary Data | Euro Top Tech</title>
   </bookmark>
 </folder>
 <folder id="4">
