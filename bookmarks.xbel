@@ -59,9 +59,6 @@
   <bookmark href="https://ara-app.eu/home" id="462">
     <title>araApp</title>
   </bookmark>
-  <bookmark href="https://www.eurotoptech.com/" id="480">
-    <title>Tech Jobs Europe (8,000+) &amp; Salary Data | Euro Top Tech</title>
-  </bookmark>
 </folder>
 <folder id="4">
   <title>Correo</title>
@@ -150,6 +147,9 @@
     </bookmark>
     <bookmark href="https://www.doorsopen.co/jobs/?q=&amp;l=Berlin%2C+Germany" id="425">
       <title>Doors Open (Music Jobs)</title>
+    </bookmark>
+    <bookmark href="https://www.eurotoptech.com/" id="480">
+      <title>Tech Jobs Europe</title>
     </bookmark>
   </folder>
   <folder id="437">
