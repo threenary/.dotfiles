@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :480: for Floccus bookmark sync browser extension -->
+<!--- highestId :482: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -150,6 +150,9 @@
     </bookmark>
     <bookmark href="https://www.eurotoptech.com/" id="480">
       <title>Tech Jobs Europe</title>
+    </bookmark>
+    <bookmark href="https://mail.google.com/mail/u/0/#inbox/FMfcgzQgMgKQhsdlPdcJCHgCjFjprCxF" id="481">
+      <title>Operations Engineer Opportunity – Zürich/Berlin (High-Ownership Role) - ggomezsullain@gmail.com - Gmail</title>
     </bookmark>
   </folder>
   <folder id="437">
@@ -1077,4 +1080,7 @@
     </bookmark>
   </folder>
 </folder>
+<bookmark href="https://www.techinberlin.com/" id="482">
+  <title>Tech in Berlin</title>
+</bookmark>
 </xbel>
