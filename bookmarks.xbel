@@ -512,15 +512,6 @@
       <title>The Movie DB</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.braveclojure.com/" id="471">
-    <title>Learn to Program the World&apos;s Most Bodacious Language with Clojure for the Brave and True</title>
-  </bookmark>
-  <bookmark href="https://practical.li/" id="472">
-    <title>Practicalli Software Engineering Guides</title>
-  </bookmark>
-  <bookmark href="https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc" id="473">
-    <title>Composing Software: The Book. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium</title>
-  </bookmark>
   <bookmark href="https://roadmap.sh/guides/design-patterns-for-humans" id="476">
     <title>Design Patterns for Humans - roadmap.sh</title>
   </bookmark>
@@ -534,6 +525,15 @@
     </bookmark>
     <bookmark href="https://mostly-adequate.gitbook.io/mostly-adequate-guide" id="469">
       <title>Mostly Adquate Guide To Functional Programming</title>
+    </bookmark>
+    <bookmark href="https://practical.li/" id="472">
+      <title>Practicalli Software Engineering Guides</title>
+    </bookmark>
+    <bookmark href="https://www.braveclojure.com/" id="471">
+      <title>Learn to Program the World&apos;s Most Bodacious Language with Clojure for the Brave and True</title>
+    </bookmark>
+    <bookmark href="https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc" id="473">
+      <title>Composing Software: The Book. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium</title>
     </bookmark>
   </folder>
 </folder>
