@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :482: for Floccus bookmark sync browser extension -->
+<!--- highestId :483: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -512,12 +512,6 @@
       <title>The Movie DB</title>
     </bookmark>
   </folder>
-  <bookmark href="https://mostly-adequate.gitbook.io/mostly-adequate-guide" id="469">
-    <title>Mostly Adquate Guide To Functional Programming</title>
-  </bookmark>
-  <bookmark href="https://ericnormand.me/" id="470">
-    <title>Eric Normand - Functional Programming and Clojure</title>
-  </bookmark>
   <bookmark href="https://www.braveclojure.com/" id="471">
     <title>Learn to Program the World&apos;s Most Bodacious Language with Clojure for the Brave and True</title>
   </bookmark>
@@ -527,12 +521,21 @@
   <bookmark href="https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc" id="473">
     <title>Composing Software: The Book. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium</title>
   </bookmark>
-  <bookmark href="https://learnyouahaskell.github.io/" id="474">
-    <title>Learn You a Haskell for Great Good! (up-to-date)</title>
-  </bookmark>
   <bookmark href="https://roadmap.sh/guides/design-patterns-for-humans" id="476">
     <title>Design Patterns for Humans - roadmap.sh</title>
   </bookmark>
+  <folder id="483">
+    <title>Functional</title>
+    <bookmark href="https://learnyouahaskell.github.io/" id="474">
+      <title>Learn You a Haskell for Great Good! (up-to-date)</title>
+    </bookmark>
+    <bookmark href="https://ericnormand.me/" id="470">
+      <title>Eric Normand - Functional Programming and Clojure</title>
+    </bookmark>
+    <bookmark href="https://mostly-adequate.gitbook.io/mostly-adequate-guide" id="469">
+      <title>Mostly Adquate Guide To Functional Programming</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="11">
   <title>Idiomas</title>
