@@ -341,6 +341,27 @@
       <title>The System Design Primer</title>
     </bookmark>
   </folder>
+  <folder id="483">
+    <title>Functional</title>
+    <bookmark href="https://learnyouahaskell.github.io/" id="474">
+      <title>Learn You a Haskell for Great Good! (up-to-date)</title>
+    </bookmark>
+    <bookmark href="https://ericnormand.me/" id="470">
+      <title>Eric Normand - Functional Programming and Clojure</title>
+    </bookmark>
+    <bookmark href="https://mostly-adequate.gitbook.io/mostly-adequate-guide" id="469">
+      <title>Mostly Adquate Guide To Functional Programming</title>
+    </bookmark>
+    <bookmark href="https://practical.li/" id="472">
+      <title>Practicalli Software Engineering Guides</title>
+    </bookmark>
+    <bookmark href="https://www.braveclojure.com/" id="471">
+      <title>Learn to Program the World&apos;s Most Bodacious Language with Clojure for the Brave and True</title>
+    </bookmark>
+    <bookmark href="https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc" id="473">
+      <title>Composing Software: The Book. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium</title>
+    </bookmark>
+  </folder>
   <folder id="79">
     <title>Architecture</title>
     <bookmark href="https://adr.github.io/" id="167">
@@ -515,27 +536,6 @@
   <bookmark href="https://roadmap.sh/guides/design-patterns-for-humans" id="476">
     <title>Design Patterns for Humans - roadmap.sh</title>
   </bookmark>
-  <folder id="483">
-    <title>Functional</title>
-    <bookmark href="https://learnyouahaskell.github.io/" id="474">
-      <title>Learn You a Haskell for Great Good! (up-to-date)</title>
-    </bookmark>
-    <bookmark href="https://ericnormand.me/" id="470">
-      <title>Eric Normand - Functional Programming and Clojure</title>
-    </bookmark>
-    <bookmark href="https://mostly-adequate.gitbook.io/mostly-adequate-guide" id="469">
-      <title>Mostly Adquate Guide To Functional Programming</title>
-    </bookmark>
-    <bookmark href="https://practical.li/" id="472">
-      <title>Practicalli Software Engineering Guides</title>
-    </bookmark>
-    <bookmark href="https://www.braveclojure.com/" id="471">
-      <title>Learn to Program the World&apos;s Most Bodacious Language with Clojure for the Brave and True</title>
-    </bookmark>
-    <bookmark href="https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc" id="473">
-      <title>Composing Software: The Book. Note: This is part of the “Composing… | by Eric Elliott | JavaScript Scene | Medium</title>
-    </bookmark>
-  </folder>
 </folder>
 <folder id="11">
   <title>Idiomas</title>
