@@ -85,11 +85,11 @@ ZSH_THEME="robbyrussell"
 plugins=(
     git
     aws
-    azure
+    gcloud
     npm
-    pnpm
     node
     terraform
+    docker
     sdk
 )
 
@@ -144,3 +144,26 @@ export PATH="$PATH:$HOME/.rvm/bin"
 ### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
 export PATH="/Users/ggomezsullain/.rd/bin:$PATH"
 ### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
+
+# pnpm
+export PNPM_HOME="/Users/ggomezsullain/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
+export PATH="$HOME/go/bin:$PATH"
+
+# For Colima Docker environment
+export DOCKER_HOST="unix://${HOME}/.colima/default/docker.sock"
+export TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE="/var/run/docker.sock"
+
+# NPM 
+export PACKAGE_NPM_TOKEN=FILL
+export OC_GITHUB_PERSONAL_ACCESS_TOKEN=FILL
+# bun completions
+[ -s "/Users/ggomezsullain/.bun/_bun" ] && source "/Users/ggomezsullain/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
