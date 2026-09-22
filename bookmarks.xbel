@@ -474,9 +474,6 @@
     </bookmark>
     <folder id="45">
       <title>Winery</title>
-      <bookmark href="https://www.drinksco.es/vino-rioja/remirez-de-ganuza-blanco-2018" id="148">
-        <title>Comprar Remírez de Ganuza Blanco 2018 | Precio y Opiniones en Drinks&amp;Co</title>
-      </bookmark>
       <bookmark href="http://localhost:8080/swagger-ui.html#/vino-controller/createVinoUsingPOST" id="149">
         <title>Swagger UI</title>
       </bookmark>
