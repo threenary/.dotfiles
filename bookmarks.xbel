@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :484: for Floccus bookmark sync browser extension -->
+<!--- highestId :485: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>Servicios</title>
@@ -1068,4 +1068,7 @@
     <title>Wasserbetriebe Analysedaten</title>
   </bookmark>
 </folder>
+<bookmark href="https://app.formula1dashboard.com/live-timing/" id="485">
+  <title>F1 Live Timing – Real-Time Leaderboard, Stints &amp; Team Radio</title>
+</bookmark>
 </xbel>
