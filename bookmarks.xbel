@@ -463,9 +463,6 @@
         <title>The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer — Smashing Magazine</title>
       </bookmark>
     </folder>
-    <bookmark href="https://jamstack.org/generators/" id="156">
-      <title>Static Site Generators</title>
-    </bookmark>
     <folder id="45">
       <title>Winery</title>
       <bookmark href="http://localhost:8080/swagger-ui.html#/vino-controller/createVinoUsingPOST" id="149">
@@ -521,9 +518,6 @@
       <title>The Movie DB</title>
     </bookmark>
   </folder>
-  <bookmark href="https://roadmap.sh/guides/design-patterns-for-humans" id="476">
-    <title>Design Patterns for Humans</title>
-  </bookmark>
 </folder>
 <folder id="11">
   <title>Idiomas</title>
