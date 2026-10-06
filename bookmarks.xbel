@@ -445,9 +445,6 @@
   </bookmark>
   <folder id="6">
     <title>Projects</title>
-    <bookmark href="https://spring.io/projects/spring-cloud-function#overview" id="47">
-      <title>Spring Cloud Function</title>
-    </bookmark>
     <folder id="44">
       <title>ImmoScrap</title>
       <bookmark href="https://www.scrapingbee.com/blog/introduction-to-web-scraping-with-java/" id="144">
@@ -493,6 +490,9 @@
         <title>Learn | Ktor Framework</title>
       </bookmark>
     </folder>
+    <bookmark href="https://spring.io/projects/spring-cloud-function#overview" id="47">
+      <title>Spring Cloud Function</title>
+    </bookmark>
     <bookmark href="https://spring.io/guides#topical-guides" id="46">
       <title>Spring Topical Guides</title>
     </bookmark>
